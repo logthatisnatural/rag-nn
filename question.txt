@@ -1,0 +1,1210 @@
+Môn "Triết học Mác – Lênin" có bao nhiêu tín chỉ và điều kiện tiên quyết là gì?
+"Tiếng Anh B1" yêu cầu bao nhiêu giờ tự học?
+Môn "Giáo dục quốc phòng – an ninh" có tín chỉ thực hành không?
+"Toán kỹ thuật 1" và "Toán kỹ thuật 2" có cùng số tín chỉ không?
+Môn "Xác suất thống kê" dành bao nhiêu giờ cho thực hành?
+Môn "Hóa sinh" thuộc khối kiến thức nào?
+Điều kiện tiên quyết của môn "Nhập môn lập trình" là gì?
+Môn "Sinh lý Động vật – Thực vật" có bao nhiêu giờ lý thuyết?
+"Thống kê sinh học và thực nghiệm" có phải là môn tự chọn không?
+Môn "Công nghệ sinh học xử lý môi trường" có bao nhiêu tín chỉ thực hành?
+Điều kiện tiên quyết của môn "Kỹ thuật tin sinh học" là gì?
+Môn "Ứng dụng trí tuệ nhân tạo trong Công nghệ sinh học" có giờ tự học là bao nhiêu?
+Có bao nhiêu định hướng chuyên sâu trong khối kiến thức ngành?
+Môn "Công nghệ Enzyme và Protein" có trong định hướng nào?
+"Đồ án Công nghệ Sinh học 1" yêu cầu điều kiện tiên quyết gì?
+Môn "Khoa học dữ liệu cho Khoa học sự sống" có bao nhiêu tín chỉ?
+Môn "Công nghệ nano sinh học" có giờ thực hành không?
+"Kỹ năng khởi nghiệp" thuộc nhóm kiến thức nào?
+Môn "Kinh tế vi mô" có bao nhiêu giờ tự học?
+"Thực tập kỹ sư" có bao nhiêu tín chỉ?
+Điều kiện tiên quyết của "Đồ án kỹ sư" là gì?
+Tổng số tín chỉ của chương trình là bao nhiêu?
+Môn nào có số giờ tự học cao nhất?
+Có bao nhiêu môn học trong khối kiến thức chung (không tính kỹ năng bổ trợ)?
+Môn "Triết học Mác – Lênin" có bao nhiêu giờ lý thuyết?
+Môn "Vật lý đại cương 1" có thực hành không?
+Môn "Công nghệ tế bào Động vật và Thực vật" thuộc khối kiến thức nào?
+Môn "Lập trình xử lí dữ liệu" có bao nhiêu giờ thực hành?
+Định hướng "Công nghệ kỹ thuật sinh học Thực phẩm" gồm những môn nào?
+Môn "Phương pháp Nghiên cứu khoa học và Quản trị dự án" có bao nhiêu tín chỉ?
+Khối kiến thức chung của ngành Cơ Kỹ thuật gồm bao nhiêu tín chỉ?
+Học phần Triết học Mác – Lênin có bao nhiêu tín chỉ?
+Học phần Kinh tế chính trị Mác – Lênin yêu cầu học phần nào là tiên quyết?
+Môn Giáo dục thể chất có bao nhiêu tín chỉ?
+Khối kiến thức theo lĩnh vực yêu cầu bao nhiêu tín chỉ?
+Môn Vật lý đại cương 2 yêu cầu học phần nào trước?
+Học phần Nhập môn lập trình thuộc khối kiến thức nào?
+Môn Xác suất thống kê ứng dụng yêu cầu những học phần nào làm tiên quyết?
+Môn Matlab và ứng dụng có bao nhiêu tiết thực hành?
+Học phần Lý thuyết điều khiển tự động thuộc khối nào?
+Học phần Cơ học kỹ thuật 2 yêu cầu học phần tiên quyết nào?
+Môn Cơ học môi trường liên tục thuộc nhóm nào?
+Môn Cơ học vật rắn biến dạng yêu cầu học phần nào trước?
+Môn Cơ học chất lỏng yêu cầu học phần nào trước?
+Học phần Máy CNC và CAD/CAM yêu cầu học phần nào trước?
+Môn Công nghệ phần mềm thuộc khối kiến thức nào?
+Môn Mạng máy tính có bao nhiêu tín chỉ?
+Khối kiến thức định hướng chuyên sâu về Thủy khí công nghiệp và môi trường gồm những học phần nào?
+Học phần Robot thuộc khối kiến thức nào?
+Môn Truyền thông vệ tinh thuộc định hướng chuyên sâu nào?
+Học phần "Ổn định tĩnh của kết cấu" thuộc định hướng nào?
+Môn Nhập môn công nghệ vũ trụ Introduction to Astromechanics Engineering có bao nhiêu tín chỉ?
+Môn "Công trình biển ngoài khơi, độ tin cậy và đồ án" thuộc khối kiến thức nào?
+Môn "Nhập môn cơ điện tử" có mã môn học là gì?
+Môn "Tự động hóa quá trình sản xuất" yêu cầu học phần nào trước?
+Môn "Cơ điện thực nghiệm" thuộc nhóm nào?
+Môn "Nhập môn công nghệ vũ trụ" có bao nhiêu tiết lý thuyết?
+Môn "Cảm biến, điều khiển vệ tinh và đồ án" thuộc định hướng chuyên sâu nào?
+Môn "Vật liệu tiên tiến và composite" yêu cầu học phần nào trước?
+Môn "Thực tập kỹ thuật định hướng Vật liệu và kết cấu tiên tiến" có bao nhiêu tín chỉ?
+Học phần "Tín hiệu và hệ thống" yêu cầu học phần tiên quyết nào?
+Học phần "Cấu trúc dữ liệu và giải thuật" yêu cầu học phần nào trước?
+Học phần "Xác suất thống kê" thuộc khối kiến thức nào?
+Môn "Giới thiệu về Hàng không Vũ trụ" có bao nhiêu tín chỉ?
+Học phần "Phương pháp số" yêu cầu những học phần nào làm tiên quyết?
+Môn "Cơ học chất lỏng" có bao nhiêu tiết lý thuyết?
+Môn "Kỹ thuật điện – điện tử Hàng không" yêu cầu học phần nào trước?
+Học phần "Phương pháp số nâng cao cho CN Hàng không Vũ trụ" yêu cầu học phần nào trước?
+Môn "Hình họa kỹ thuật và CAD" có bao nhiêu tiết thực hành?
+Học phần "Sức bền vật liệu" thuộc khối kiến thức nào?
+Học phần "Cơ học kỹ thuật cho CN Hàng không Vũ trụ" yêu cầu học phần nào trước?
+Học phần "Lập trình nâng cao" yêu cầu học phần nào trước?
+Học phần "Nhiệt động lực học" thuộc khối kiến thức ngành hay nhóm ngành?
+Học phần "Lý thuyết điều khiển tự động" yêu cầu học phần nào trước?
+Môn "Phương trình vi phân và đạo hàm riêng" yêu cầu học phần nào trước?
+Học phần "Kết cấu hàng không" thuộc nhóm học phần nào?
+Môn "Động học hệ thống và dao động" có bao nhiêu tiết thực hành?
+Môn "Thiết kế thiết bị bay" thuộc khối kiến thức nào?
+Học phần "Hệ thống đẩy" có bao nhiêu tín chỉ?
+Học phần "Khí động lực học" có bao nhiêu tiết lý thuyết?
+Học phần "Kỹ năng khởi nghiệp" thuộc loại học phần nào?
+Học phần "Hệ sinh thái ứng dụng" có bao nhiêu tín chỉ?
+Học phần "Khoa học đo lường, chuẩn hóa và xác thực" có bao nhiêu tiết lý thuyết?
+Học phần "Công nghệ phần mềm" yêu cầu học phần nào trước?
+Môn "Nguyên lý quản trị kinh doanh" có bao nhiêu tín chỉ?
+Môn "Kinh tế vi mô" thuộc khối học phần nào?
+Môn "Lập trình hướng đối tượng" yêu cầu học phần tiên quyết nào?
+Học phần "Lập trình nhúng và thời gian thực" yêu cầu học phần nào trước?
+Học phần "Phát triển hệ thống nhúng bảo mật" yêu cầu học phần nào trước?
+Môn "Hệ thống vi xử lý" yêu cầu học phần nào là tiên quyết?
+Môn Cơ – Nhiệt thuộc khối kiến thức nào?
+Học phần Cơ – Nhiệt có bao nhiêu tín chỉ?
+Học phần Cơ – Nhiệt yêu cầu học phần tiên quyết nào?
+Học phần Điện – Quang thuộc khối kiến thức nào?
+Học phần Điện – Quang có bao nhiêu tín chỉ?
+Môn Lập trình xử lý dữ liệu thuộc khối kiến thức nào?
+Môn Lập trình xử lý dữ liệu yêu cầu học phần nào trước?
+Học phần Xác suất thống kê có bao nhiêu tín chỉ?
+Học phần Vật lý lượng tử thuộc khối kiến thức nào?
+Môn Nhập môn hóa học vật liệu yêu cầu học phần nào trước?
+Môn Khoa học vật liệu đại cương thuộc khối kiến thức nào?
+Học phần Các phương pháp toán lý có bao nhiêu tín chỉ?
+Môn Nhập môn công nghệ vật liệu và vi điện tử thuộc khối kiến thức nào?
+Môn Vật lý bán dẫn và linh kiện yêu cầu học phần nào trước?
+Môn Vật liệu từ và ứng dụng thuộc khối kiến thức nào?
+Môn Vật liệu và linh kiện vi điện tử có bao nhiêu tín chỉ?
+Môn Mô hình hóa và thiết kế vật liệu yêu cầu học phần nào trước?
+Môn Tổng hợp và chế tạo vật liệu thuộc học phần nào?
+Đồ án tổng hợp và chế tạo vật liệu có yêu cầu học phần tiên quyết không?
+Học phần Công nghệ chế tạo linh kiện vi điện tử thuộc khối nào?
+Môn Kỹ thuật điện có bao nhiêu tín chỉ?
+Học phần Điện tử tương tự có yêu cầu tiên quyết không?
+Học phần Điện tử số có bao nhiêu tín chỉ?
+Thực tập điện tử tương tự yêu cầu học phần nào là tiên quyết?
+Học phần Đóng gói và kiểm thử bán dẫn thuộc khối kiến thức nào?
+Thực tập chuyên đề công nghệ vật liệu thuộc định hướng nào?
+Học phần Vật liệu ứng dụng trong vi điện tử thuộc định hướng nào?
+Học phần Quản lý dự án xuất hiện trong mấy định hướng chuyên sâu?
+Môn Công nghệ chế tạo pin mặt trời thuộc nhóm học phần nào?
+Môn Các hệ vi cơ điện tử và ứng dụng thuộc định hướng nào?
+Học phần Xác suất thống kê ứng dụng có bao nhiêu tín chỉ?
+Môn Phương pháp tính trong kỹ thuật thuộc khối kiến thức nào?
+Môn Cơ học kỹ thuật 1 có bao nhiêu tín chỉ?
+Học phần Matlab và ứng dụng thuộc khối kiến thức nào?
+Môn Lý thuyết điều khiển tự động có bao nhiêu tín chỉ?
+Hình hoạ kỹ thuật và CAD thuộc khối kiến thức nào?
+Học phần Sức bền vật liệu và cơ học kết cấu có bao nhiêu tín chỉ?
+Nguyên lý kỹ thuật điện tử thuộc khối kiến thức nào?
+Linh kiện bán dẫn và vi mạch có bao nhiêu tín chỉ?
+Cơ sở công nghệ chế tạo máy có mấy tín chỉ?
+Kỹ thuật đo lường và cảm biến thuộc khối kiến thức nào?
+Cơ sở kỹ thuật điện có bao nhiêu tín chỉ?
+Học phần Kiến trúc máy tính và mạng truyền thông công nghiệp có bao nhiêu tín chỉ?
+Lập trình nâng cao ứng dụng trong đo lường, điều khiển có bao nhiêu tín chỉ?
+Nhập môn cơ điện tử thuộc khối kiến thức nào?
+Hệ thống cơ điện tử thuộc định hướng chuyên sâu nào?
+Học phần Robot công nghiệp thuộc định hướng nào?
+Học phần SCADA xuất hiện trong những định hướng nào?
+Trí tuệ nhân tạo là học phần của nhóm nào?
+Đồ án chuyên ngành Cơ điện tử có bao nhiêu tín chỉ?
+Học phần Kỹ thuật thuỷ khí có bao nhiêu tín chỉ?
+Lập trình ứng dụng thời gian thực thuộc dạng học phần nào?
+Công nghệ chế tạo máy thuộc định hướng nào?
+Máy công cụ – CNC thuộc khối nào trong định hướng Chế tạo thiết bị?
+Công nghệ CAD/CAM/CNC có bao nhiêu tín chỉ?
+Thiết kế khuôn mẫu thuộc khối học phần nào?
+Môn Công nghệ gia công phi truyền thống và tạo mẫu nhanh thuộc định hướng nào?
+Điện tử công suất thuộc định hướng nào?
+Kỹ thuật xung – số – tương tự và kỹ thuật đo và điều khiển có bao nhiêu tín chỉ?
+Môn Các phương pháp điều khiển tiên tiến thuộc khối nào?
+Học phần "Tín hiệu và hệ thống" có bao nhiêu tín chỉ?
+Học phần "Cấu trúc dữ liệu và giải thuật" thuộc khối kiến thức nào?
+Học phần "Xác suất thống kê" có bao nhiêu tín chỉ?
+Môn "Nhập môn kỹ thuật công nghệ" thuộc khối kiến thức nào?
+Học phần "Linh kiện điện tử" thuộc khối nào?
+Môn "Kỹ thuật điện" thuộc khối kiến thức nào?
+Học phần "Điện tử tương tự" có bao nhiêu tín chỉ?
+Môn "Điện tử số" thuộc khối nào?
+Học phần "Xử lý tín hiệu số" có bao nhiêu tín chỉ?
+Môn "Kỹ thuật điều khiển" thuộc khối kiến thức nào?
+Học phần "Thiết kế số và vi xử lý" thuộc khối kiến thức nào?
+Môn "Nhập môn hệ thống nhúng" có bao nhiêu tín chỉ?
+Môn "Truyền thông" thuộc khối nào trong chương trình đào tạo?
+Học phần "Kỹ thuật điện từ" thuộc khối kiến thức nào?
+Môn "Mạng truyền thông máy tính 1" thuộc khối kiến thức nào?
+Học phần "Truyền thông số và mã hóa" có bao nhiêu tín chỉ?
+Môn "Cơ sở trí tuệ nhân tạo" thuộc khối kiến thức nào?
+Học phần "Kỹ thuật lập trình nâng cao" có bao nhiêu tín chỉ?
+Học phần "Kỹ thuật anten" thuộc định hướng nào?
+Môn "Truyền thông quang" thuộc định hướng nào?
+Môn "Truyền thông di động" thuộc định hướng nào?
+Môn "Mạng điều khiển mềm" thuộc định hướng nào?
+Môn "IoT và ứng dụng" thuộc những định hướng nào?
+Môn "Truyền thông vệ tinh" thuộc định hướng nào?
+Môn "Xử lý tín hiệu và tạo ảnh y sinh" thuộc định hướng nào?
+Môn "Mạch xử lý tín hiệu y sinh" thuộc định hướng nào?
+Môn "Thiết bị và phân tích tín hiệu y sinh" có bao nhiêu tín chỉ?
+Học phần "Cơ sở điện sinh học" thuộc định hướng nào?
+Môn "Công nghệ vi cơ điện tử" thuộc định hướng nào?
+Học phần "Kỹ thuật cảm biến" xuất hiện trong những định hướng nào?
+Khối kiến thức theo khối ngành của ngành Công nghệ Kỹ thuật Xây dựng gồm bao nhiêu tín chỉ?
+Môn "Cơ học môi trường liên tục trong kỹ thuật" có mã môn học là gì?
+Môn "Kiến trúc trong xây dựng" yêu cầu học phần tiên quyết nào?
+Môn "Cơ học kỹ thuật" thuộc khối kiến thức nào?
+Môn "Sức bền vật liệu" có bao nhiêu tiết thực hành?
+Môn "Cơ học kết cấu" yêu cầu học phần nào trước?
+Môn "Môi trường pháp lý trong xây dựng" thuộc nhóm nào?
+Khối kiến thức theo nhóm ngành yêu cầu bao nhiêu tín chỉ?
+Môn "Hình họa – Vẽ kỹ thuật" có bao nhiêu tín chỉ?
+Môn "Thủy lực công trình" yêu cầu học phần nào trước?
+Môn "Vật liệu xây dựng" thuộc khối kiến thức nào?
+Môn "Vật liệu tiên tiến trong Xây dựng – Giao thông" có bao nhiêu tiết lý thuyết?
+Môn "Nền và móng" có mã môn học là gì?
+Môn "Kết cấu bê tông cốt thép" yêu cầu học phần nào trước?
+Môn "Trắc địa" thuộc nhóm nào?
+Môn "Động lực học công trình" có bao nhiêu tín chỉ?
+Môn "BIM trong Xây dựng – Giao thông" yêu cầu học phần nào trước?
+Môn "Phương pháp phần tử hữu hạn trong kỹ thuật xây dựng" thuộc nhóm nào?
+Môn "Tin học ứng dụng trong Xây dựng" thuộc chuyên ngành nào?
+Môn "Đồ án 3A: Kết cấu bê tông cốt thép" có bao nhiêu tiết thực hành?
+Môn "Thiết kế nhà bê tông cốt thép" yêu cầu học phần nào trước?
+Môn "Cấp thoát nước" có bao nhiêu tín chỉ?
+Môn "Tin học ứng dụng trong Giao thông" thuộc chuyên ngành nào?
+Môn "Thiết kế cầu" yêu cầu học phần nào trước?
+Môn "Thi công đường" có bao nhiêu tiết lý thuyết?
+Môn "Thực tập kỹ thuật 1" yêu cầu học phần nào trước?
+Môn "Thực tập BIM trong Xây dựng – Giao thông" có mã môn học là gì?
+Môn "Thực tập tốt nghiệp" có bao nhiêu tín chỉ?
+Môn "Đồ án tốt nghiệp" có bao nhiêu tiết thực hành?
+Khối kiến thức định hướng chuyên sâu yêu cầu bao nhiêu tín chỉ?
+Khối kiến thức theo khối ngành của ngành Công nghệ Nông nghiệp gồm bao nhiêu tín chỉ?
+Môn "Thực vật, động vật và vi sinh vật học" có mã môn học là gì?
+Môn "Hóa nông nghiệp và thực phẩm" có bao nhiêu tín chỉ?
+Môn "Xác suất thống kê" thuộc khối kiến thức nào?
+Khối kiến thức theo nhóm ngành yêu cầu bao nhiêu tín chỉ?
+Môn "Công nghệ sinh học" có mã môn học là gì?
+Môn "Nhập môn Công nghệ Nông nghiệp" có bao nhiêu tín chỉ?
+Môn "Trồng trọt" thuộc khối kiến thức nào?
+Môn "Khí tượng nông nghiệp và biến đổi khí hậu" có mã môn học là gì?
+Môn "Hệ sinh thái nông nghiệp và nông nghiệp bền vững" có bao nhiêu tín chỉ?
+Môn "Trồng cây không đất" thuộc nhóm nào?
+Môn "Bảo vệ thực vật" có mã môn học là gì?
+Môn "Dự án Công nghệ Nông nghiệp" có bao nhiêu tín chỉ?
+Môn "Rèn nghề Công nghệ Nông nghiệp" thuộc nhóm nào?
+Môn "Lập trình Python cho nông nghiệp" thuộc định hướng chuyên sâu nào?
+Môn "Ứng dụng trí tuệ nhân tạo trong nông nghiệp" có mã môn học là gì?
+Môn "Kỹ thuật đo lường và cảm biến ứng dụng trong nông nghiệp" có bao nhiêu tín chỉ?
+Môn "Phát triển ứng dụng IoT trong nông nghiệp" thuộc nhóm nào?
+Môn "Công nghệ sinh học phân tử" có bao nhiêu tín chỉ?
+Môn "Công nghệ nhân giống cây trồng và vật nuôi" thuộc định hướng chuyên sâu nào?
+Môn "Công nghệ canh tác nấm và cây trồng ngắn ngày" có mã môn học là gì?
+Môn "Nghiên cứu phát triển sản phẩm" có bao nhiêu tín chỉ?
+Môn "Tin sinh học nông nghiệp" thuộc nhóm nào?
+Môn "Quản trị sản xuất và logistics trong nông nghiệp" thuộc nhóm nào?
+Môn "Công nghệ sau thu hoạch" có mã môn học là gì?
+Môn "Quản lý và kiểm nghiệm chất lượng an toàn nông sản và thực phẩm" có bao nhiêu tín chỉ?
+Môn "Kiểm soát ô nhiễm trong sản xuất nông nghiệp" thuộc nhóm nào?
+Môn "Kỹ năng khởi nghiệp" có mã môn học là gì?
+Môn "Đồ án tốt nghiệp" có bao nhiêu tín chỉ?
+Khối kiến thức ngành của ngành Công nghệ Nông nghiệp yêu cầu bao nhiêu tín chỉ?
+Khối kiến thức theo khối ngành của ngành Công nghệ Thông tin gồm bao nhiêu tín chỉ?
+Môn "Tín hiệu và hệ thống" có mã môn học là gì?
+Môn "Cấu trúc dữ liệu và giải thuật" có bao nhiêu tín chỉ?
+Môn "Xác suất thống kê" thuộc khối kiến thức nào?
+Khối kiến thức theo nhóm ngành yêu cầu bao nhiêu tín chỉ?
+Môn "Lập trình nâng cao" có mã môn học là gì?
+Môn "Toán học rời rạc" có bao nhiêu tín chỉ?
+Môn "Kiến trúc máy tính" thuộc khối kiến thức nào?
+Môn "Cơ sở dữ liệu" có mã môn học là gì?
+Môn "Công nghệ phần mềm" có bao nhiêu tín chỉ?
+Môn "Trí tuệ nhân tạo" thuộc nhóm nào?
+Môn "Dự án khoa học" có mã môn học là gì?
+Môn "Thực tập chuyên ngành" có bao nhiêu tín chỉ?
+Môn "Kiểm thử và đảm bảo chất lượng phần mềm" thuộc nhóm nào?
+Môn "Phát triển ứng dụng di động" có mã môn học là gì?
+Môn "Phát triển ứng dụng Web" có bao nhiêu tín chỉ?
+Môn "Hệ quản trị cơ sở dữ liệu" thuộc nhóm nào?
+Môn "Khai phá dữ liệu" có mã môn học là gì?
+Môn "Trí tuệ kinh doanh" có bao nhiêu tín chỉ?
+Môn "Mạng không dây" thuộc nhóm nào?
+Môn "An toàn và an ninh mạng" có mã môn học là gì?
+Môn "Điện toán đám mây" có bao nhiêu tín chỉ?
+Môn "Xử lý ảnh" thuộc nhóm nào?
+Môn "Học máy" có mã môn học là gì?
+Môn "Xử lý ngôn ngữ tự nhiên" có bao nhiêu tín chỉ?
+Môn "Kỹ năng khởi nghiệp" thuộc nhóm nào?
+Môn "Thuật toán nâng cao và ứng dụng" có mã môn học là gì?
+Môn "Khóa luận tốt nghiệp" có bao nhiêu tín chỉ?
+Môn "Dự án (bắt buộc)" có mã môn học là gì?
+Khối kiến thức ngành của ngành Công nghệ Thông tin yêu cầu bao nhiêu tín chỉ?
+Khối kiến thức theo khối ngành của ngành Công nghệ Thông tin định hướng Nhật Bản gồm bao nhiêu tín chỉ?
+Môn "Tín hiệu và hệ thống" có mã môn học là gì?
+Môn "Cấu trúc dữ liệu và giải thuật" có bao nhiêu tín chỉ?
+Môn "Xác suất thống kê" thuộc khối kiến thức nào?
+Khối kiến thức theo nhóm ngành yêu cầu bao nhiêu tín chỉ?
+Môn "Lập trình nâng cao" có mã môn học là gì?
+Môn "Cơ sở dữ liệu" có bao nhiêu tín chỉ?
+Môn "Toán học rời rạc" thuộc khối kiến thức nào?
+Môn "Công nghệ phần mềm" có mã môn học là gì?
+Môn "Tiếng Nhật 2A" thuộc nhóm nào?
+Môn "Tiếng Nhật 3B" có mã môn học là gì?
+Môn "Tiếng Nhật 3C" có bao nhiêu tín chỉ?
+Môn "Chuẩn kỹ năng của CNTT" thuộc nhóm nào?
+Môn "Chuyên đề Công nghệ Nhật Bản" có mã môn học là gì?
+Môn "Tiếng Nhật trong Công nghệ thông tin 1" có bao nhiêu tín chỉ?
+Môn "Thực tập doanh nghiệp Nhật Bản" thuộc nhóm nào?
+Môn "Trí tuệ nhân tạo" có mã môn học là gì?
+Môn "Phát triển ứng dụng Web" có bao nhiêu tín chỉ?
+Môn "Thực hành phát triển phần mềm" thuộc nhóm nào?
+Môn "Thực hành phát triển ứng dụng di động" có mã môn học là gì?
+Môn "Kiểm thử và đảm bảo chất lượng phần mềm" có bao nhiêu tín chỉ?
+Môn "Quản lý dự án phần mềm" thuộc nhóm nào?
+Môn "Xử lý ngôn ngữ tự nhiên" có mã môn học là gì?
+Môn "Các hệ thống thương mại điện tử" có bao nhiêu tín chỉ?
+Môn "Kỹ năng khởi nghiệp" thuộc nhóm nào?
+Môn "Văn hóa kinh doanh Nhật Bản" có mã môn học là gì?
+Môn "Thuật toán nâng cao và ứng dụng" có bao nhiêu tín chỉ?
+Môn "Khóa luận tốt nghiệp" thuộc nhóm nào?
+Môn "Dự án (bắt buộc)" có mã môn học là gì?
+Khối kiến thức ngành của ngành Công nghệ Thông tin định hướng Nhật Bản yêu cầu bao nhiêu tín chỉ?
+Khối kiến thức theo khối ngành của ngành Kỹ thuật Điều khiển và Tự động hóa gồm bao nhiêu tín chỉ?
+Môn "Phương pháp tính trong kỹ thuật" có mã môn học là gì?
+Môn "Xác suất thống kê ứng dụng" có bao nhiêu tín chỉ?
+Môn "Cơ học kỹ thuật 1" thuộc khối kiến thức nào?
+Khối kiến thức theo nhóm ngành yêu cầu bao nhiêu tín chỉ?
+Môn "Matlab và ứng dụng" có mã môn học là gì?
+Môn "Lý thuyết điều khiển tự động" có bao nhiêu tín chỉ?
+Môn "Cơ học môi trường liên tục" thuộc nhóm nào?
+Môn "Nhập môn điều khiển thông minh" có mã môn học là gì?
+Môn "Lập trình nâng cao ứng dụng trong đo lường, điều khiển" có bao nhiêu tín chỉ?
+Môn "Nguyên lý Kỹ thuật điện tử" thuộc nhóm nào?
+Môn "Kỹ thuật đo lường và cảm biến" có mã môn học là gì?
+Môn "Máy CNC và CAD/CAM" có bao nhiêu tín chỉ?
+Môn "Tự động hóa quá trình sản xuất" thuộc định hướng chuyên sâu nào?
+Môn "Robot công nghiệp" có mã môn học là gì?
+Môn "Điều khiển PLC" có bao nhiêu tín chỉ?
+Môn "SCADA" thuộc định hướng chuyên sâu nào?
+Môn "Đồ án: Thiết kế hệ thống điều khiển trong Công nghiệp" có mã môn học là gì?
+Môn "Đo lường nâng cao" thuộc định hướng chuyên sâu nào?
+Môn "Hệ thống điều khiển nhúng" có bao nhiêu tín chỉ?
+Môn "Đồ án: Thiết kế hệ thống đo lường tự động trong Công nghiệp" có mã môn học là gì?
+Môn "Cơ điện thực nghiệm" thuộc nhóm nào?
+Môn "Cảm biến và cơ cấu chấp hành" có mã môn học là gì?
+Môn "Xử lý và nhận dạng ảnh" có bao nhiêu tín chỉ?
+Môn "Thực tập Kỹ thuật định hướng Kỹ thuật điều khiển và tự động hóa" thuộc nhóm nào?
+Môn "Thực tập tốt nghiệp định hướng Kỹ thuật điều khiển và tự động hóa" có mã môn học là gì?
+Môn "Đồ án tốt nghiệp" có bao nhiêu tín chỉ?
+Khối kiến thức ngành của ngành Kỹ thuật Điều khiển và Tự động hóa yêu cầu bao nhiêu tín chỉ?
+Môn "Động cơ và cơ sở truyền động điện" thuộc nhóm nào?
+Môn "Trí tuệ nhân tạo" có mã môn học là gì?
+Khối kiến thức theo khối ngành của ngành Kỹ thuật Máy tính gồm bao nhiêu tín chỉ?
+Môn "Tín hiệu và hệ thống" có mã môn học là gì?
+Môn "Cấu trúc dữ liệu và giải thuật" có bao nhiêu tín chỉ?
+Môn "Xác suất thống kê" thuộc khối kiến thức nào?
+Khối kiến thức theo nhóm ngành yêu cầu bao nhiêu tín chỉ?
+Môn "Nhập môn kỹ thuật công nghệ" có mã môn học là gì?
+Môn "Điện tử tương tự" có bao nhiêu tín chỉ?
+Môn "Xử lý tín hiệu số" thuộc khối kiến thức nào?
+Môn "Kỹ thuật lập trình nâng cao" có mã môn học là gì?
+Môn "Mạng máy tính" có bao nhiêu tín chỉ?
+Môn "Cơ sở trí tuệ nhân tạo" thuộc nhóm nào?
+Môn "Kiến trúc máy tính" có mã môn học là gì?
+Môn "Cơ sở đo lường và điều khiển số" có bao nhiêu tín chỉ?
+Môn "Thiết kế mạch tích hợp tương tự" thuộc định hướng chuyên sâu nào?
+Môn "Thiết kế mạch tích hợp số" có mã môn học là gì?
+Môn "Công nghệ vi cơ điện tử" có bao nhiêu tín chỉ?
+Môn "IoT và ứng dụng" thuộc định hướng chuyên sâu nào?
+Môn "Học máy" có mã môn học là gì?
+Môn "Hệ thống robot thông minh" có bao nhiêu tín chỉ?
+Môn "Nguyên lý truyền thông và mã hóa" thuộc định hướng chuyên sâu nào?
+Môn "An toàn và an ninh mạng" có mã môn học là gì?
+Môn "Điện toán đám mây" có bao nhiêu tín chỉ?
+Môn "Kỹ năng khởi nghiệp" thuộc nhóm nào?
+Môn "Tối ưu hóa" có mã môn học là gì?
+Môn "Tâm lý học đại cương" có bao nhiêu tín chỉ?
+Môn "Thực tập ngành Kỹ thuật máy tính" thuộc nhóm nào?
+Môn "Đồ án tốt nghiệp" có mã môn học là gì?
+Môn "Dự án ngành Kỹ thuật máy tính (bắt buộc)" có bao nhiêu tín chỉ?
+Khối kiến thức ngành của ngành Kỹ thuật Máy tính yêu cầu bao nhiêu tín chỉ?
+Môn "Kinh tế vi mô" có mã môn học là gì?
+Khối kiến thức theo khối ngành và nhóm ngành của ngành Kỹ thuật Năng lượng gồm bao nhiêu tín chỉ?
+Môn "Cơ – Nhiệt" có mã môn học là gì?
+Môn "Nhiệt động lực học kỹ thuật" có bao nhiêu tín chỉ?
+Môn "Khoa học vật liệu đại cương" thuộc khối kiến thức nào?
+Môn "Vật lý thiết bị và linh kiện" có mã môn học là gì?
+Môn "Cơ sở hóa học và nhiên liệu 2" có bao nhiêu tín chỉ?
+Môn "Ứng dụng trí tuệ nhân tạo trong các hệ thống năng lượng" thuộc nhóm nào?
+Môn "Truyền nhiệt và truyền khối" có mã môn học là gì?
+Môn "Thực tập kỹ thuật năng lượng 1" có bao nhiêu tín chỉ?
+Môn "Bức xạ và biến đổi năng lượng mặt trời" thuộc chuyên ngành nào?
+Môn "Hệ thống quang điện" có mã môn học là gì?
+Môn "Đồ án hệ thống năng lượng nhiệt mặt trời" có bao nhiêu tín chỉ?
+Môn "Kỹ thuật pin mặt trời" thuộc nhóm nào?
+Môn "Công nghệ năng lượng Hydro và pin nhiên liệu" có mã môn học là gì?
+Môn "Điện gió" có bao nhiêu tín chỉ?
+Môn "Tích trữ và biến đổi các nguồn năng lượng mới" thuộc chuyên ngành nào?
+Môn "Thủy điện và năng lượng biển" có mã môn học là gì?
+Môn "Năng lượng sinh học" có bao nhiêu tín chỉ?
+Môn "Kiểm soát ô nhiễm trong các quá trình năng lượng" thuộc chuyên ngành nào?
+Môn "An toàn hiệu quả trong kỹ thuật năng lượng" có mã môn học là gì?
+Môn "Đồ án kinh tế và chính sách năng lượng" có bao nhiêu tín chỉ?
+Môn "Xây dựng và đánh giá các dự án năng lượng" thuộc nhóm nào?
+Môn "Chuyên nghiệp trong công nghệ" có mã môn học là gì?
+Môn "Tiếng Anh chuyên ngành kỹ thuật năng lượng" có bao nhiêu tín chỉ?
+Môn "Đo lường và tự động hóa các hệ thống năng lượng" thuộc nhóm nào?
+Môn "Đồ án tốt nghiệp" có bao nhiêu tín chỉ?
+Khối kiến thức ngành của ngành Kỹ thuật Năng lượng yêu cầu bao nhiêu tín chỉ?
+Môn "Cơ sở kinh tế năng lượng" có mã môn học là gì?
+Môn "Vật liệu nano ứng dụng trong năng lượng mặt trời" có bao nhiêu tín chỉ?
+Môn "Đồ án kinh tế và chính sách năng lượng Project in Economics and Policy in Energy Engineering" có bao nhiêu tín chỉ?
+Khối kiến thức theo khối ngành của ngành Kỹ thuật Robot gồm bao nhiêu tín chỉ?
+Môn "Tín hiệu và hệ thống" có mã môn học là gì?
+Môn "Cấu trúc dữ liệu và giải thuật" có bao nhiêu tín chỉ?
+Môn "Xác suất thống kê" thuộc khối kiến thức nào?
+Khối kiến thức theo nhóm ngành yêu cầu bao nhiêu tín chỉ?
+Môn "Nhập môn kỹ thuật công nghệ" có mã môn học là gì?
+Môn "Xử lý tín hiệu số" có bao nhiêu tín chỉ?
+Môn "Nguyên lý Kỹ thuật điện tử" thuộc khối kiến thức nào?
+Môn "Lập trình Robot với ROS" có mã môn học là gì?
+Môn "Thực hành Thiết kế và xây dựng Robot 1" có bao nhiêu tín chỉ?
+Môn "Động học và động lực học" thuộc nhóm nào?
+Môn "Cơ học và kết cấu Robot" có mã môn học là gì?
+Môn "Xử lý ảnh và thị giác Robot" có bao nhiêu tín chỉ?
+Môn "Tương tác người – Robot" thuộc khối kiến thức nào?
+Môn "Điện tử công suất và điều khiển" có mã môn học là gì?
+Môn "Học máy ứng dụng" có bao nhiêu tín chỉ?
+Môn "Giải thuật cho robot thông minh" thuộc khối kiến thức nào?
+Môn "Khoa học nhận thức" có mã môn học là gì?
+Môn "Các thuật toán thích nghi" có bao nhiêu tín chỉ?
+Môn "Kỹ năng khởi nghiệp" thuộc nhóm nào?
+Môn "Tối ưu hóa" có mã môn học là gì?
+Môn "Tâm lý học đại cương" có bao nhiêu tín chỉ?
+Môn "Thực tập ngành kỹ thuật Robot" thuộc nhóm nào?
+Môn "Đồ án tốt nghiệp" có mã môn học là gì?
+Môn "Dự án ngành kỹ thuật robot (bắt buộc)" có bao nhiêu tín chỉ?
+Khối kiến thức ngành của ngành Kỹ thuật Robot yêu cầu bao nhiêu tín chỉ?
+Môn "Vẽ kỹ thuật" có mã môn học là gì?
+Môn "Cơ sở trí tuệ nhân tạo" có bao nhiêu tín chỉ?
+Môn "Mạng không dây" thuộc khối kiến thức nào?
+Môn "An toàn lao động và môi trường công nghiệp" có mã môn học là gì?
+Khối kiến thức theo khối ngành của ngành Mạng Máy tính và Truyền thông Dữ liệu gồm bao nhiêu tín chỉ?
+Môn "Tín hiệu và hệ thống" có mã môn học là gì?
+Môn "Cấu trúc dữ liệu và giải thuật" có bao nhiêu tín chỉ?
+Môn "Xác suất thống kê" thuộc khối kiến thức nào?
+Khối kiến thức theo nhóm ngành yêu cầu bao nhiêu tín chỉ?
+Môn "Lập trình nâng cao" có mã môn học là gì?
+Môn "Cơ sở dữ liệu" có bao nhiêu tín chỉ?
+Môn "Mạng máy tính" thuộc khối kiến thức nào?
+Môn "Lý thuyết thông tin" có mã môn học là gì?
+Môn "An toàn và an ninh mạng" có bao nhiêu tín chỉ?
+Môn "Truyền thông số và mã hóa" thuộc nhóm nào?
+Môn "Phát triển ứng dụng Web" có mã môn học là gì?
+Môn "Thực tập doanh nghiệp" có bao nhiêu tín chỉ?
+Môn "Thực hành hệ điều hành mạng" thuộc nhóm nào?
+Môn "Phân tích và thiết kế mạng máy tính" có mã môn học là gì?
+Môn "An ninh di động" có bao nhiêu tín chỉ?
+Môn "Lập trình mạng" thuộc nhóm nào?
+Môn "Điện toán đám mây" có mã môn học là gì?
+Môn "Phát triển ứng dụng Internet of Things" có bao nhiêu tín chỉ?
+Môn "Các nguyên lý truyền thông" thuộc nhóm nào?
+Môn "Truyền thông quang" có mã môn học là gì?
+Môn "Xử lý tín hiệu số" có bao nhiêu tín chỉ?
+Môn "Khai phá dữ liệu" thuộc nhóm nào?
+Môn "Học máy" có mã môn học là gì?
+Môn "Kỹ năng khởi nghiệp" có bao nhiêu tín chỉ?
+Môn "Thuật toán nâng cao và ứng dụng" thuộc nhóm nào?
+Môn "Thực tập tốt nghiệp" có mã môn học là gì?
+Môn "Đồ án tốt nghiệp" có bao nhiêu tín chỉ?
+Khối kiến thức ngành của ngành Mạng Máy tính và Truyền thông Dữ liệu yêu cầu bao nhiêu tín chỉ?
+Môn "Kiến trúc phần mềm" có mã môn học là gì?
+Môn "Cơ – Nhiệt" thuộc khối kiến thức nào?
+Môn "Điện – Quang" có bao nhiêu giờ tự học?
+Môn "Lập trình xử lý dữ liệu" có mã môn học là gì?
+Môn "Xác suất thống kê" có bao nhiêu giờ lý thuyết?
+Khối kiến thức theo nhóm ngành có tổng cộng bao nhiêu tín chỉ?
+Môn "Vật lý lượng tử" có bao nhiêu giờ thực hành?
+Môn "Nhập môn hóa học vật liệu" có mã môn tiên quyết là gì?
+Môn "Khoa học vật liệu đại cương" có bao nhiêu tín chỉ?
+Môn "Các phương pháp toán lý" có bao nhiêu giờ tự học?
+Môn "Nhập môn công nghệ vật liệu và vi điện tử" có bao nhiêu tín chỉ?
+Môn "Vật lý bán dẫn và linh kiện" có mã môn học là gì?
+Môn "Vật liệu từ và ứng dụng" có bao nhiêu giờ thực hành?
+Môn "Vật liệu và linh kiện vi điện tử" có mã môn tiên quyết là gì?
+Môn "Mô hình hóa và thiết kế vật liệu" thuộc mục nào?
+Môn "Tổng hợp và chế tạo vật liệu" có bao nhiêu tín chỉ?
+Môn "Công nghệ chế tạo linh kiện vi điện tử" có bao nhiêu giờ lý thuyết?
+Môn "Kỹ thuật điện" có bao nhiêu giờ tự học?
+Môn "Điện tử tương tự" có mã môn học là gì?
+Môn "Thực tập điện tử số" có bao nhiêu tín chỉ?
+Môn "Thực tập chuyên đề công nghệ vật liệu" có mã môn học là gì?
+Môn "Vật liệu ứng dụng trong vi điện tử" có bao nhiêu giờ thực hành?
+Môn "Đồ án vật liệu ứng dụng trong vi điện tử" có mã môn tiên quyết là gì?
+Môn "Công nghệ chế tạo pin mặt trời" thuộc định hướng chuyên sâu nào?
+Môn "Các hệ vi cơ điện tử và ứng dụng" có bao nhiêu giờ tự học?
+Môn "Kỹ thuật CMOS" có bao nhiêu tín chỉ?
+Môn "Đồ họa kỹ thuật" có bao nhiêu giờ thực hành?
+Môn "Kinh tế vĩ mô" có mã môn học là gì?
+Môn "Seminar và thảo luận nhóm về công nghệ nano và ứng dụng" có bao nhiêu tín chỉ?
+Môn "Thực tập công nghiệp" có mã môn tiên quyết là gì?
+Môn "Đồ án tốt nghiệp" có bao nhiêu tín chỉ?
+Môn "Khoa học dịch vụ Service Science" có mấy tín chỉ?
+Môn "Phân tích dữ liệu dự báo Predictive analytics" thuộc nhóm học phần nào?
+Môn "Phân tích dữ liệu dự báo Predictive analytics" có bao nhiêu tín chỉ?
+Môn "Lập trình nâng cao" thuộc khối kiến thức nào?
+Môn "Cơ sở dữ liệu" có bao nhiêu tín chỉ?
+Môn "Kiến trúc máy tính" có mã môn học là gì?
+Môn "Toán học rời rạc" thuộc khối kiến thức nào?
+Môn "Nguyên lý hệ điều hành" có bao nhiêu tín chỉ?
+Môn "Mạng máy tính" thuộc khối kiến thức nào?
+Môn "Lập trình hướng đối tượng" có mã môn học là gì?
+Môn "Công nghệ phần mềm" có bao nhiêu tín chỉ?
+Môn "Cơ sở các hệ thống thông tin" thuộc khối kiến thức nào?
+Môn "Phân tích thiết kế các hệ thống thông tin" có mã môn học là gì?
+Môn "Hệ quản trị cơ sở dữ liệu" có bao nhiêu tín chỉ?
+Môn "Khai phá dữ liệu" thuộc khối kiến thức nào?
+Môn "Các chủ đề hiện đại của HTTT" có mã môn học là gì?
+Môn "Thực tập doanh nghiệp" có bao nhiêu tín chỉ?
+Môn "Quản lý dự án HTTT" thuộc nhóm học phần nào?
+Môn "Tích hợp dịch vụ" có mã môn học là gì?
+Môn "Kỹ thuật và công nghệ dữ liệu lớn" có bao nhiêu tín chỉ?
+Môn "Mật mã và An toàn thông tin" thuộc nhóm học phần nào?
+Môn "Công nghệ Blockchain" có mã môn học là gì?
+Môn "Kiến trúc hướng dịch vụ" có bao nhiêu tín chỉ?
+Môn "Trí tuệ kinh doanh" thuộc nhóm học phần nào?
+Môn "Trí tuệ nhân tạo" có mã môn học là gì?
+Môn "Phân tích kinh doanh" có bao nhiêu tín chỉ?
+Môn "Khai phá dữ liệu hướng lĩnh vực" có mã môn học là gì?
+Môn "Phân tích dữ liệu dự báo" thuộc nhóm học phần nào?
+Môn "Kỹ năng khởi nghiệp" có bao nhiêu tín chỉ?
+Môn "Khóa luận tốt nghiệp" thuộc khối kiến thức nào?
+Môn "Lập trình hướng đối tượng Object-oriented Programming" có bao nhiêu tín chỉ?
+Môn "Cơ sở dữ liệu Database" thuộc khối kiến thức nào?
+Môn "Công nghệ phần mềm Software Engineering" có bao nhiêu tín chỉ?
+Môn "Cơ sở trí tuệ nhân tạo Foundations of Artificial Intelligence" thuộc khối kiến thức nào?
+Môn "Học máy Machine Learning" có bao nhiêu tín chỉ?
+Môn "Học sâu Deep learning" thuộc khối kiến thức nào?
+Môn "Xử lý ngôn ngữ tự nhiên Natural language processing" có bao nhiêu tín chỉ?
+Môn "Xử lý và phân tích hình ảnh Visual processing and analytics" thuộc khối kiến thức nào?
+Môn "Khai phá và phân tích dữ liệu Data mining and analytics" có bao nhiêu tín chỉ?
+Môn "AI system development practice" thuộc khối kiến thức nào?
+Môn "Kỹ thuật và công nghệ dữ liệu lớn Big Data Techniques and Technologies" có bao nhiêu tín chỉ?
+Môn "Seminar khoa học Scientific Seminars" thuộc khối kiến thức nào?
+Môn "Dự án Project" có bao nhiêu tín chỉ?
+Môn "Nhận thức, ngôn ngữ và tư duy Cognition, language and thought" thuộc định hướng nào?
+Môn "Mô hình đồ thị xác suất Probabilistic Graphical Models" có bao nhiêu tín chỉ?
+Môn "Học tăng cường và lập kế hoạch Reinforcement Learning and Planning" thuộc định hướng nào?
+Môn "Massively Parallel Programming with GPU" có bao nhiêu tín chỉ?
+Môn "Ứng dụng Trí tuệ nhân tạo cho ngôn ngữ AI applications in natural language" thuộc định hướng nào?
+Môn "Xử lý tiếng nói Speech processing" có bao nhiêu tín chỉ?
+Môn "Tương tác người và Trí tuệ nhân tạo Human-AI Interaction" thuộc định hướng nào?
+Môn "AI applications in medicine" có bao nhiêu tín chỉ?
+Môn "Computational Neuroscience and Applications" thuộc định hướng nào?
+Môn "Bioinformatics" có bao nhiêu tín chỉ?
+Môn "AI Robotics" thuộc định hướng nào?
+Môn "AI applications in Engineering" có bao nhiêu tín chỉ?
+Môn "AI applications in Environment" thuộc định hướng nào?
+Môn "Knowledge-based Systems" có bao nhiêu tín chỉ?
+Môn "Hardware Design for Deep Learning" thuộc định hướng nào?
+Môn "Thực tập doanh nghiệp Industrial Internship" có bao nhiêu tín chỉ?
+Môn "Khóa luận tốt nghiệp Graduation Thesis" thuộc khối kiến thức nào?
+Môn "Khoa học vật liệu đại cương Fundamentals of Materials Science" có bao nhiêu tín chỉ?
+Môn "Các phương pháp toán lý Mathematic Methods in Physics" thuộc khối kiến thức nào?
+Môn "Vật lý lượng tử Quantum Physics" có bao nhiêu tín chỉ?
+Môn "Vật lý thống kê Statistical Physics" thuộc khối kiến thức nào?
+Môn "Các phương pháp phân tích vật liệu Material Characterization Techniques" có bao nhiêu tín chỉ?
+Môn "Thực hành công nghệ Technology Practicum" thuộc khối kiến thức nào?
+Môn "Ứng dụng trí tuệ nhân tạo trong Vật lý AI Physics, Tools and Computation" có bao nhiêu tín chỉ?
+Môn "Kỹ thuật hóa học và ứng dụng Chemical Engineering and Applications" thuộc khối kiến thức nào?
+Môn "Vật lý phân tử Molecular Physics" có bao nhiêu tín chỉ?
+Môn "Tin học tích hợp vi mạch Integrated Circuit Informatics" thuộc khối kiến thức nào?
+Môn "Vật lý chất rắn Solid-State Physics" có bao nhiêu tín chỉ?
+Môn "Quang điện tử và thông tin quang Optoelectronics and Fiber Optics Telecommunication" thuộc khối kiến thức nào?
+Môn "Kỹ thuật đo lường và cảm biến trong Vật lý Measurement Techniques and Sensors in Physics" có bao nhiêu tín chỉ?
+Môn "Kỹ thuật màng mỏng và công nghệ nano Thin Films Techniques and Nanotechnology" thuộc khối kiến thức nào?
+Môn "Vật lý bán dẫn và linh kiện Physics of Semiconductors and Devices" có bao nhiêu tín chỉ?
+Môn "Từ học và siêu dẫn Physics of Magnetism and Superconductivity" thuộc khối kiến thức nào?
+Môn "Kỹ thuật vi mạch Intergrated Circuit Technology" có bao nhiêu tín chỉ?
+Môn "Seminar và thảo luận nhóm về công nghệ nano và ứng dụng Seminar and Teamwork on Nanotechnology and Applications" thuộc khối kiến thức nào?
+Môn "Công nghệ và kỹ thuật laser Laser Technology and Techniques" có bao nhiêu tín chỉ?
+Môn "Quang phổ chất rắn và các vật liệu cấu trúc nano Spectroscopy of Solid-State and Nanostructured Materials" thuộc định hướng nào?
+Môn "Thực tập chuyên đề Công nghệ quang tử Specialized Practice in Photonics" có bao nhiêu tín chỉ?
+Môn "Thiết bị quang tử Photonic Instruments" thuộc định hướng nào?
+Môn "Quang tử nano Nanophotonics" có bao nhiêu tín chỉ?
+Môn "Vật liệu quang tử hữu cơ nano Organic Nanophotonic Materials" thuộc định hướng nào?
+Môn "Vật lý cho kỹ thuật y-sinh Physics for Biomedical Engineering" có bao nhiêu tín chỉ?
+Môn "Các hệ vi cơ điện tử và ứng dụng Microelectromechanical Systems and Applications" thuộc định hướng nào?
+Môn "Vật liệu từ thế hệ mới Modern Magnetic Materials" có bao nhiêu tín chỉ?
+Môn "Kỹ thuật bảo vệ vật liệu và ứng dụng Coating Techniques and Applications" thuộc định hướng nào?
+Môn "Lập trình lượng tử Quantum Programming" có bao nhiêu tín chỉ?
+Môn "Các phương pháp tính trong Vật lý Computational Physics" thuộc định hướng nào?
+Đại học Quốc gia Hà Nội (ĐHQGHN) được thành lập khi nào?
+ĐHQGHN hiện nay có tên tiếng Anh là gì?
+Cơ quan chủ quản của ĐHQGHN là ai?
+Ai là người đứng đầu ĐHQGHN hiện nay?
+ĐHQGHN có vai trò gì trong hệ thống giáo dục đại học Việt Nam?
+Trường đại học nào trong ĐHQGHN có tổng số cán bộ lớn nhất?
+ĐHQGHN có cơ sở tại huyện nào ngoài nội thành?
+Ai là Giám đốc ĐHQGHN và đồng thời là Chủ tịch Hội đồng ĐHQGHN?
+Trường nào có nhiều giáo sư nhất?
+ĐHQGHN có cơ sở tại quận nào nhiều nhất?
+Ai là Chánh Văn phòng của Đại học Quốc gia Hà Nội?
+Trưởng ban Tổ chức và Thanh tra của ĐHQGHN là ai?
+Ai là Bí thư Đoàn Thanh niên ĐHQGHN?
+Công đoàn ĐHQGHN có bao nhiêu Ủy viên Ban Chấp hành?
+Trưởng ban Hợp tác và Phát triển của ĐHQGHN là ai?
+Thủ tục xin nghỉ phép năm được thực hiện ở đâu?
+Sinh viên đại học cần đạt chuẩn ngoại ngữ bậc mấy theo Khung năng lực ngoại ngữ 6 bậc?
+Diện tích đất tại cụm Cầu Giấy thuộc Đại học Quốc gia Hà Nội là bao nhiêu ha?
+Mẫu đơn nào dùng để xin nghỉ ốm, thai sản?
+100% người học tốt nghiệp cần đạt các chuẩn đầu ra nào?
+Ai là Viện sĩ Chủ tịch Viện Hàn lâm Khoa học Ukraina được trao Tiến sĩ Danh dự của ĐHQGHN?
+ĐHQGHN đang triển khai bao nhiêu chương trình đào tạo đại học?
+Tỷ lệ đào tạo sau đại học/tổng đào tạo chính quy ở ĐHQGHN là bao nhiêu?
+Thời gian khai giảng khối trung học phổ thông học kỳ 1 năm học 2024 ở ĐHQGHN là khi nào?
+Khi nào ĐHQGHN tổ chức thi học kỳ II cho sinh viên chính quy học kỳ 2 năm học 2024-2025?
+Trường Đại học Công nghệ có những ngành đào tạo bậc đại học nào nổi bật?
+Ngành Toán học Trường Đại học Khoa học Tự nhiên có các chương trình đào tạo đặc biệt nào?
+Trường Đại học Ngoại ngữ đào tạo những ngành nào bậc đại học?
+Bậc thạc sĩ tại Trường Đại học Khoa học Tự nhiên có chuyên ngành nào liên quan đến Toán?
+Các chuyên ngành tiến sĩ nổi bật tại Trường Đại học Khoa học Tự nhiên gồm những gì?
+Có bao nhiêu phòng thí nghiệm trọng điểm tại Trường Đại học Khoa học Tự nhiên?
+Ai là trưởng nhóm nghiên cứu Công nghệ môi trường xanh và tái chế chất thải?
+Phòng thí nghiệm nào thuộc Trường Đại học Công nghệ liên quan đến An toàn Thông tin?
+Nhóm nghiên cứu nào dưới Trường Đại học Kinh tế tập trung vào Hội nhập Kinh tế Quốc tế?
+Trường Đại học nào có Trung tâm Nghiên cứu Biển và Đảo?
+Quỹ Phát triển Khoa học Công nghệ ĐHQGHN được thành lập khi nào?
+Quỹ KHCN ĐHQGHN có tư cách pháp nhân không?
+Quỹ KHCN ĐHQGHN hoạt động theo loại hình tổ chức nào?
+Mục tiêu chính của Quỹ KHCN ĐHQGHN là gì?
+Ai là Chủ tịch Hội đồng quản lý Quỹ KHCN?
+Cơ quan điều hành Quỹ gồm những ai?
+Chức năng chính của Quỹ KHCN là gì?
+Quỹ có quyền hạn gì trong việc tài trợ và cho vay?
+Quỹ có quyền đình chỉ tài trợ khi nào?
+Quỹ có quan hệ với ai để vận động tài trợ?
+Tên tiếng Anh của Quỹ KHCN ĐHQGHN là gì?
+Trụ sở Quỹ đặt ở đâu?
+Nhiệm kỳ của Hội đồng Quỹ là bao lâu?
+Hội đồng Quỹ có bao nhiêu thành viên?
+Nhiệm vụ của Ban Kiểm soát Quỹ là gì?
+Giám đốc Quỹ chịu trách nhiệm trước ai?
+Nguồn vốn ban đầu của Quỹ là bao nhiêu?
+Đối tượng được Quỹ tài trợ, cho vay là ai?
+Quỹ tài trợ những lĩnh vực nào?
+Nhiệm kỳ của Giám đốc và Phó Giám đốc Quỹ là bao lâu?
+Đại học Quốc gia Hà Nội có những đối tác trong nước nào?
+Đối tác ngành ngân hàng của ĐHQGHN là ai?
+ĐHQGHN có hợp tác với thành phố nào?
+Tập đoàn công nghệ nào hợp tác với ĐHQGHN?
+Dự án nào nghiên cứu về thị trường bất động sản?
+Ai là đơn vị chủ trì nghiên cứu chuyển đổi mô hình tăng trưởng kinh tế?
+Nghiên cứu nào liên quan đến năng lượng sạch?
+Đối tác trong dự án xây dựng phần mềm Tiếng Anh lớp 10?
+Nghiên cứu nào về ứng dụng công nghệ vi sinh trong sản xuất thức ăn chăn nuôi?
+Dự án giám sát và cảnh báo sạt lở đất do ai thực hiện?
+ĐHQGHN nằm trong top mấy đại học Châu Á?
+ĐHQGHN có bao nhiêu nhà khoa học?
+Tỷ lệ GS và PGS tại ĐHQGHN là bao nhiêu?
+ĐHQGHN cần tuyển dụng những đối tượng nào?
+Ai là Chủ tịch Hội đồng trường ĐH Công nghệ, ĐHQGHN?
+Tiêu chuẩn học vị cho giảng viên ĐHQGHN?
+Địa chỉ liên hệ tuyển dụng ĐHQGHN?
+Ứng viên có thể đăng ký khi chưa có vị trí phù hợp không?
+ĐHQGHN có chính sách gì để thu hút nhà khoa học xuất sắc?
+Cách tuyển dụng nghiên cứu viên tại ĐHQGHN?
+ĐHQGHN viết tắt của gì?
+ĐHQGHN ở đâu?
+Ai trực tiếp chỉ đạo ĐHQGHN?
+Tiền thân của ĐHQGHN là gì?
+Năm nào thành lập Trường Đại học Tổng hợp Hà Nội?
+ĐHQGHN được tổ chức lại năm nào?
+ĐHQGHN có bao nhiêu trường đại học thành viên?
+Trụ sở chính hiện nay của ĐHQGHN ở đâu?
+ĐHQGHN có bao nhiêu chương trình đào tạo đại học?
+ĐHQGHN có bao nhiêu viện nghiên cứu khoa học?
+Ai bổ nhiệm hiệu trưởng các trường thành viên?
+ĐHQGHN có bao nhiêu giảng viên?
+Trường Đại học Việt - Nhật thành lập năm nào?
+ĐHQGHN có trường THPT chuyên không?
+Ai là một cựu sinh viên nổi tiếng của ĐHQGHN?
+Sứ mạng chính của ĐHQGHN là gì?
+ĐHQGHN bồi dưỡng đối tượng nào?
+ĐHQGHN thực hiện chuyển giao gì?
+ĐHQGHN góp phần vào điều gì?
+Vai trò của ĐHQGHN trong hệ thống giáo dục?
+Tầm nhìn ĐHQGHN đến năm nào?
+Mục tiêu tầm nhìn 2045 là gì?
+ĐHQGHN hướng tới mô hình đại học gì?
+Giá trị cốt lõi của ĐHQGHN gồm gì?
+Khẩu hiệu hành động của ĐHQGHN là gì?
+ĐHQGHN được thành lập từ năm nào?
+Nguồn gốc lịch sử của ĐHQGHN là gì?
+Mục tiêu thành lập ĐHQGHN là gì?
+Thành tựu nổi bật giai đoạn 2015–2020 là gì?
+ĐHQGHN đạt top mấy thế giới năm 2020?
+Một số ngành thuộc top nào?
+ĐHQGHN thuộc nhóm bao nhiêu đại học châu Á?
+Bảng xếp hạng Scimago đánh giá gì?
+Thách thức chính của ĐHQGHN hiện nay là gì?
+Chiến lược phát triển hướng tới điều gì?
+Mô hình đại học tương lai là gì?
+Ba đặc trưng của hệ sinh thái đại học mới?
+Phương thức học tập mới yêu cầu gì?
+Chuyển đổi số đóng vai trò gì?
+Tự chủ đại học ảnh hưởng thế nào?
+Quan điểm phát triển của ĐHQGHN là gì?
+Vai trò của ĐHQGHN với giáo dục Việt Nam?
+ĐHQGHN phát huy sức mạnh gì?
+ĐHQGHN ưu tiên phát triển ngành gì?
+Mục tiêu chiến lược đến 2030 là gì?
+Bản đồ Hà Nội có gì?
+Có bản đồ xe buýt không?
+ĐHQGHN có bao nhiêu cơ sở?
+Cơ sở chính ở đâu?
+Cơ sở tại Hoàn Kiếm ở đâu?
+Cơ sở tại Thanh Xuân gồm gì?
+Cơ sở tại Hoà Lạc ở đâu?
+Cơ sở tại Nam Từ Liêm gồm gì?
+Ai là Giám đốc ĐHQGHN?
+Ai là Phó Giám đốc thường trực?
+Ai phụ trách lĩnh vực tổ chức?
+Ai phụ trách lĩnh vực đào tạo?
+Hội đồng ĐHQGHN có mấy nhóm thành viên?
+Ai là Chủ tịch Hội đồng?
+Ai là Thư ký Hội đồng?
+Ai là Chủ tịch Công đoàn ĐHQGHN?
+Ai là Hiệu trưởng ĐH KHTN?
+Ai là Hiệu trưởng ĐH KHXHNV?
+Ai là Chủ tịch Hội đồng ĐH Ngoại ngữ?
+ĐHQGHN có Viện trưởng nào ở CNTT?
+Ai đứng đầu Viện Trần Nhân Tông?
+Đảng ủy ĐHQGHN thuộc nhiệm kỳ nào?
+Văn phòng ĐHQGHN ở đâu?
+Ai là Chánh Văn phòng ĐHQGHN?
+Ban Tổ chức thuộc ai quản lý?
+Ban Đào tạo có trưởng ban là ai?
+Ban Khoa học có ai đứng đầu?
+Ban Tài chính do ai phụ trách?
+Email Giám đốc ĐHQGHN là gì?
+Số điện thoại Văn phòng là gì?
+Ai là Chủ tịch Công đoàn ĐHQGHN?
+Ai là Phó Chủ tịch Công đoàn ĐHQGHN?
+Nguyễn Văn Đoàn giữ chức vụ gì?
+Nguyễn Văn Thủy thuộc ban nào?
+Ai là Ủy viên Ban Thường vụ?
+Đoàn Thị Thái giữ chức gì?
+Vũ Thị Thu Hằng làm gì?
+Võ Thị Minh Trang giữ vai trò gì?
+Phan Thị Ngọc Hoa thuộc ban nào?
+Nguyễn Văn Tình giữ chức vụ gì?
+Phạm Đình Hiệu làm gì trong công đoàn?
+Công đoàn ĐHQGHN có bao nhiêu thành viên Ban Chấp hành?
+Địa chỉ email văn phòng công đoàn là gì?
+Đoàn ĐHQGHN thành lập năm nào?
+Có bao nhiêu cơ sở Đoàn trực thuộc ĐHQGHN?
+Tổ chức Đoàn có bao nhiêu đoàn viên?
+Hội Sinh viên ĐHQGHN thành lập khi nào?
+Hội Sinh viên có mấy cơ sở trực thuộc?
+Bí thư Đoàn ĐHQGHN hiện nay là ai?
+Chủ tịch Hội Sinh viên ĐHQGHN là ai?
+Trường nào có đoàn viên Nguyễn Đình Nam?
+Ai là Bí thư Đoàn Trường ĐH KHXH&NV?
+Chủ tịch HSV Trường ĐH KHXH&NV là ai?
+Bí thư Đoàn Trường ĐH Công nghệ tên gì?
+Ai là Chủ tịch HSV Trường ĐH Công nghệ?
+Bí thư Đoàn Trường ĐH Kinh tế tên gì?
+Ai là Chủ tịch HSV Trường ĐH Kinh tế?
+Đoàn Trường Đại học Luật do ai làm bí thư?
+Viện Trần Nhân Tông có bí thư là ai?
+Quyết định 26/2014/QĐ-TTg do ai ký?
+Chuẩn đầu ra phẩm chất đạo đức?
+Kỹ năng mềm có bắt buộc không?
+Chuẩn ngoại ngữ bậc đại học là gì?
+Chuẩn ngoại ngữ chương trình chuẩn?
+Chuẩn ngoại ngữ chương trình chất lượng cao?
+Chuẩn ngoại ngữ chương trình quốc tế?
+Chuẩn ngoại ngữ cử nhân liên kết?
+Chuẩn ngoại ngữ thạc sĩ hệ chuẩn?
+Chuẩn ngoại ngữ tiến sĩ hệ chuẩn?
+Chuẩn ngoại ngữ tiến sĩ liên kết?
+Diện tích đất đai khu vực Hà Nội?
+Diện tích khu vực Ba Vì?
+Diện tích khu vực Hòa Lạc?
+Tổng diện tích sàn xây dựng?
+Số phòng giảng đường hiện có?
+Diện tích phòng học máy tính?
+Số phòng học ngoại ngữ?
+Diện tích thư viện hiện tại?
+Số phòng thí nghiệm hiện có?
+Diện tích ký túc xá?
+Tỷ lệ sinh viên có việc làm?
+Quy mô đào tạo đại học chính quy?
+Tỷ lệ đào tạo sau đại học?
+Tỷ lệ đào tạo tiến sĩ?
+Tỷ lệ chương trình kiểm định chất lượng?
+Số công trình khoa học công bố?
+Tỷ lệ công bố Scopus Q1, Q2?
+Số bằng phát minh sáng chế?
+Tỷ lệ giảng viên có trình độ tiến sĩ?
+Tỷ lệ sinh viên quốc tịch nước ngoài?
+ĐHQGHN có bao nhiêu CTĐT đại học?
+Có bao nhiêu chương trình thạc sĩ tại ĐHQGHN?
+ĐHQGHN hiện có bao nhiêu chương trình tiến sĩ?
+Tỷ lệ đào tạo sau đại học là bao nhiêu?
+Quy mô đào tạo đại học có ổn định không?
+Hàng năm, ĐHQGHN đào tạo bao nhiêu cử nhân?
+Sinh viên tài năng chiếm tỷ lệ bao nhiêu?
+ĐHQGHN đào tạo bao nhiêu thạc sĩ mỗi năm?
+Mỗi năm, có bao nhiêu tiến sĩ tốt nghiệp?
+Sinh viên tốt nghiệp được đại học nào công nhận?
+ĐHQGHN đào tạo theo chuẩn nào?
+Ngoài ngành truyền thống, ĐHQGHN còn phát triển ngành gì?
+Một số ngành liên ngành tiêu biểu là gì?
+Mỗi năm có bao nhiêu học sinh năng khiếu?
+Học sinh năng khiếu đạt chuẩn gì?
+Học sinh chuyên giành được bao nhiêu huy chương vàng?
+Họ giành được bao nhiêu huy chương bạc?
+Bao nhiêu huy chương đồng được giành?
+GS. Ngô Bảo Châu học từ đâu?
+GS. Đàm Thanh Sơn học từ đâu?
+ĐHQGHN phối hợp với ai đào tạo thạc sĩ?
+Các chương trình đào tạo thuộc đề án nào?
+Ai chủ trì Đề án 165?
+ĐHQGHN áp dụng chuẩn kiểm định nào?
+Họ có văn bản quy phạm gì?
+ĐHQGHN tập huấn cho bộ ngành nào?
+Các lĩnh vực bồi dưỡng gồm những gì?
+ĐHQGHN hỗ trợ đào tạo vùng nào?
+Giảng viên được bồi dưỡng về nội dung gì?
+Sinh viên ĐHQGHN làm việc ở đâu?
+Khai giảng THPT diễn ra khi nào?
+Năm học mới ĐHCQ bắt đầu khi nào?
+Xét học vụ sinh viên chính quy?
+Tuyển sinh SĐH đợt 2 năm 2024?
+Trao bằng thạc sĩ đợt 3-2024?
+Nhập học ĐHCQ QH2024 khi nào?
+Khai giảng ĐHCQ QH2024 khi nào?
+Nhập học bổ sung QH2024 khi nào?
+Tuyển sinh CTĐT chất lượng cao?
+Hoàn tất tuyển sinh ĐHCQ 2024?
+Thi phân loại ngoại ngữ QH2024?
+Hội nghị tổng kết năm học khi nào?
+Khai giảng SĐH QH2024 khi nào?
+Bảo vệ luận văn thạc sĩ đợt 4?
+Trao bằng thạc sĩ đợt 4-2024?
+Hoàn thành học kỳ I khi nào?
+Thi học kỳ I ĐHCQ khi nào?
+Kỳ thi phụ ĐHCQ khi nào?
+Nghỉ Tết Nguyên Đán 2025 khi nào?
+Bắt đầu học kỳ II khi nào?
+Bảo vệ luận văn thạc sĩ đợt 1-2025?
+Trao bằng thạc sĩ đợt 1-2025?
+Tuyển sinh SĐH đợt 1-2025?
+Bế giảng khối THPT khi nào?
+Bảo vệ luận văn thạc sĩ đợt 2-2025?
+Trao bằng SĐH đợt 2-2025?
+Tuyển sinh THPT diễn ra khi nào?
+Hoàn thành học kỳ II khi nào?
+Bảo vệ khóa luận tốt nghiệp ĐHCQ?
+Thi học kỳ II ĐHCQ khi nào?
+ĐH Troy liên kết ngành gì?
+ĐH St. Francis đào tạo cử nhân gì?
+ĐH St. Francis đào tạo thạc sĩ gì?
+ĐH Southern New Hampshire cử nhân gì?
+ĐH Southern New Hampshire thạc sĩ gì?
+ĐH Leipzig liên kết ngành gì?
+ĐH Toulon đào tạo thạc sĩ gì?
+ĐH Quốc gia Giao thông ngành gì?
+ĐH Paris Saclay đào tạo gì?
+ĐH Montesquieu Bordeaux IV ngành gì?
+ĐH HELP liên kết ngành gì?
+ĐH Keuka đào tạo cử nhân gì?
+ĐH East London ngành gì?
+ĐH Kỹ thuật năng lượng Mát-xcơ-va?
+ĐH Troy ngành khách sạn gì?
+ĐH Lunghwa đào tạo thạc sĩ gì?
+ĐH Nantes thạc sĩ tài chính gì?
+ĐH Nantes thạc sĩ marketing gì?
+ĐH La Rochelle ngành gì?
+ĐH Normandie thạc sĩ ngành gì?
+Số chương trình liên kết cử nhân?
+Số chương trình liên kết thạc sĩ?
+Trường THCS thuộc ĐH nào?
+Số trường THPT của ĐHQGHN?
+Thành tích tiếng Anh THPT Ngoại ngữ?
+Thành tích tiếng Nga THPT Ngoại ngữ?
+Thành tích tiếng Pháp THPT Ngoại ngữ?
+Thành tích tiếng Trung THPT Ngoại ngữ?
+Quy mô đào tạo ĐHCQ 2021?
+Quy mô đào tạo thạc sĩ 2021?
+Luật Giáo dục Đại học số gì?
+Điều lệ trường đại học ban hành khi nào?
+Quy định khối lượng kiến thức tối thiểu?
+Quy chế thi THPT Quốc gia số gì?
+Quy chế tuyển sinh ĐH, CĐ số gì?
+Quy chế thi HSG quốc gia số gì?
+Quy chế công nhận trường chuẩn quốc gia?
+Hướng dẫn Đề án 322 số gì?
+Quy định đào tạo giáo viên THPT?
+Quy định dạy Giáo dục Quốc phòng?
+Quy định đào tạo tiến sĩ Đề án 911?
+Hướng dẫn chương trình GDQP-AN số gì?
+Quy chế thi tốt nghiệp THPT số gì?
+Quy chế trường THPT chuyên số gì?
+Danh mục đào tạo thạc sĩ, tiến sĩ?
+Sửa đổi quy chế đào tạo tiến sĩ?
+Chương trình khung ngành Khoa học Sức khỏe?
+Quy định xác định chỉ tiêu tuyển sinh?
+Sửa đổi Điều lệ trường cao đẳng?
+Quy chế đào tạo thạc sĩ số gì?
+Quy định mở ngành đào tạo ĐH, CĐ?
+Quy định mở ngành thạc sĩ, tiến sĩ?
+Hướng dẫn văn bằng, chứng chỉ số gì?
+Nghị quyết đổi mới quản lý ĐH?
+Quy chế học viên vừa học vừa làm?
+Chiến lược KHCN&ĐMST ĐHQGHN ban hành khi?
+Quan điểm KHCN&ĐMST của ĐHQGHN?
+Mục tiêu KHCN&ĐMST ĐHQGHN 2030?
+Định hướng nghiên cứu KHCN&ĐMST ĐHQGHN?
+Quyết định văn bằng, chứng chỉ ĐHQGHN?
+ĐHQGHN đang phấn đấu trở thành gì?
+Mục tiêu hợp tác quốc tế của ĐHQGHN là gì?
+Quyết định số mấy quản lý hợp tác quốc tế?
+Khi nào Quyết định 4616/QĐ-ĐHQGHN được ban hành?
+Ban nào xây dựng Sổ tay hợp tác quốc tế?
+Luật Giáo dục đại học số bao nhiêu?
+Nghị định về Đại học Quốc gia số mấy?
+Quyết định số mấy về tổ chức và hoạt động của ĐHQGHN?
+Luật xuất cảnh, nhập cảnh của công dân Việt Nam là luật số mấy?
+Bộ Ngoại giao ban hành thông tư số mấy liên quan hộ chiếu ngoại giao?
+Văn bản nào hướng dẫn thực hiện Quy chế quản lý đối ngoại?
+Luật nhập cảnh, xuất cảnh của người nước ngoài số mấy?
+Nghị định nào quy định chi tiết về Luật nhập cảnh người nước ngoài?
+Quyết định của Thủ tướng Chính phủ về hội nghị quốc tế là số mấy?
+Nghị định nào quản lý hợp tác quốc tế về pháp luật?
+Nghị định số mấy quản lý vốn viện trợ ODA?
+ĐHQGHN có bao nhiêu câu lạc bộ sinh viên?
+Có bao nhiêu câu lạc bộ học thuật tại ĐHQGHN?
+Các hoạt động phong trào của sinh viên ĐHQGHN nhằm mục đích gì?
+Mục tiêu đào tạo sinh viên đạt chuẩn quốc tế đến năm nào?
+Tỷ lệ sinh viên ngành khoa học tự nhiên đạt chuẩn quốc tế là bao nhiêu?
+Tỷ lệ sinh viên các ngành khác đạt chuẩn quốc tế là bao nhiêu?
+ĐHQGHN tổ chức cuộc thi nào thường xuyên?
+Số lượng sinh viên ĐHQGHN được kết nạp vào Đảng hàng năm là bao nhiêu?
+Tổng trị giá học bổng hàng năm khoảng bao nhiêu?
+Số lượng sinh viên nước ngoài học tập tại ĐHQGHN khoảng bao nhiêu?
+Trung tâm nào hỗ trợ sinh viên tại ĐHQGHN?
+Đoàn TNCS Hồ Chí Minh và Hội Sinh viên tổ chức hoạt động gì?
+Sinh viên ĐHQGHN thường tham gia nghiên cứu khoa học ở đâu?
+Mục tiêu giáo dục sinh viên hướng tới điều gì?
+Ai tham dự buổi lễ từ Bộ Tư lệnh Hải quân?
+Ai đại diện Trường ĐHKHXH&NV tham dự?
+Học bổng được trao cho ai?
+Học bổng áp dụng từ năm nào?
+Trường ĐHKHXH&NV có bao nhiêu chương trình đào tạo?
+Trường đặt mục tiêu đứng top mấy châu Á năm 2025?
+Học bổng được xem là gì?
+Ai gửi lời cảm ơn tại buổi lễ?
+Nhà trường phối hợp với ai để tuyển sinh?
+Trường ĐHKHXH&NV hướng tới trở thành gì?
+Những chiến sĩ nào được ưu tiên?
+Trường có hợp tác với bao nhiêu trường quốc tế?
+Học bổng tạo điều kiện gì cho chiến sĩ?
+Giá trị truyền thống của trường?
+Học sinh, sinh viên có thể nhận học bổng từ đâu?
+Ví dụ học bổng trong nước?
+Ví dụ học bổng ngoài nước?
+Tỉ lệ sinh viên Khoa Sinh học có việc làm sau 1 năm?
+Khoa Sinh học muốn mở rộng gì?
+Sinh viên cần chuẩn bị gì cho nghề nghiệp?
+Tên chương trình việc làm tại Khoa Sinh học?
+Mục đích của Ngày hội việc làm?
+Trường ĐH Khoa học Tự nhiên nổi bật về?
+Đoàn Thanh niên ĐHQGHN thành lập năm nào?
+Đoàn ĐHQGHN có bao nhiêu đoàn viên?
+Có bao nhiêu cơ sở Đoàn trực thuộc ĐHQGHN?
+Hội Sinh viên ĐHQGHN thành lập năm nào?
+Hội Sinh viên ĐHQGHN có bao nhiêu cơ sở Hội?
+Địa chỉ văn phòng Đoàn ĐHQGHN ở đâu?
+Số điện thoại Đoàn ĐHQGHN?
+ĐHQGHN có bao nhiêu người làm việc tính đến 31/12/2022?
+Tổng số viên chức tại ĐHQGHN là bao nhiêu?
+Số lao động hợp đồng tại ĐHQGHN?
+Tỷ lệ cán bộ khoa học so với tổng người làm việc là bao nhiêu?
+ĐHQGHN có bao nhiêu tiến sĩ, tiến sĩ khoa học?
+Số giảng viên cơ hữu tại ĐHQGHN?
+Tỷ lệ giảng viên có trình độ TS, TSKH là bao nhiêu?
+Có bao nhiêu Giáo sư và Phó giáo sư tại ĐHQGHN?
+Tỷ lệ GS, PGS so với giảng viên cơ hữu?
+Số nhà giáo được công nhận GS, PGS năm 2022?
+Tỷ lệ giảng viên có chức danh GS, PGS sau bổ nhiệm đầu 2023?
+Tỷ lệ GS, PGS ĐHQGHN so với cả nước?
+ĐHQGHN có những ngành khoa học nào nổi bật?
+Đội ngũ CBKH của ĐHQGHN có năng lực làm việc ở môi trường nào?
+Một số giải thưởng khoa học quốc tế mà CBKH ĐHQGHN đạt được?
+Số giải thưởng Hồ Chí Minh CBKH ĐHQGHN đạt được?
+ĐHQGHN có mấy nhà khoa học nằm trong top 100.000 thế giới năm 2019?
+Ai là nhà khoa học đứng đầu Việt Nam năm 2021?
+Vị trí xếp hạng của GS.TSKH. Nguyễn Đình Đức năm 2021?
+ĐHQGHN có bao nhiêu nhà khoa học trong danh sách Research.com năm 2023?
+ĐHQGHN có những giải pháp đột phá nào cho đội ngũ CBKH?
+Khu nghiên cứu khoa học liên ngành của ĐHQGHN rộng bao nhiêu ha?
+ĐHQGHN đã thành lập câu lạc bộ nào cho nhà khoa học trẻ?
+Số thành viên Ban Điều hành CLB Nhà khoa học ĐHQGHN?
+ĐHQGHN tổ chức các hoạt động gì cho nhà khoa học?
+Số lượt nhà khoa học, quản trị, chính trị gia đến ĐHQGHN mỗi năm?
+Tỷ lệ CBKH đáp ứng quy định nghị quyết nào?
+ĐHQGHN thu hút học giả quốc tế bằng đề án nào?
+ĐHQGHN phát triển đội ngũ CBKH đến năm nào?
+ĐHQGHN có bao nhiêu nhà khoa học được công nhận giải thưởng Kovalevskaia?
+ĐHQGHN nằm trong top bao nhiêu đại học Châu Á?s
+ĐHQGHN có bao nhiêu nhà khoa học?
+Tỷ lệ GS và PGS tại ĐHQGHN là bao nhiêu?
+Tỷ lệ tiến sĩ và tiến sĩ khoa học?
+ĐHQGHN công bố bài báo khoa học quốc tế trên tạp chí nào?
+ĐHQGHN cần thu hút những đối tượng nào đến năm 2025?
+Những lĩnh vực nào ĐHQGHN ưu tiên phát triển?
+Ngoài các lĩnh vực chính, ĐHQGHN còn có lĩnh vực nào?
+Nhà khoa học có thể đề xuất gì tại ĐHQGHN?
+ĐHQGHN cam kết điều gì với ứng viên?
+Ai là Chủ tịch Hội đồng trường ĐH Công nghệ?
+Ai là Hiệu trưởng Trường ĐH Y Dược, ĐHQGHN?
+Ai là nhà khoa học công nghệ sinh học hàng đầu Việt Nam?
+Ai là giảng viên thuộc Top 5% nhà nghiên cứu kinh tế thế giới?
+Ai là Chủ nhiệm Khoa Các Khoa học Giáo dục?
+Ai là giảng viên trẻ công bố nhiều bài ISI/SCOPUS?
+ĐHQGHN có bao nhiêu trường đại học thành viên?
+ĐHQGHN có bao nhiêu viện nghiên cứu?
+Địa chỉ liên hệ tuyển dụng ĐHQGHN là ở đâu?
+Email liên hệ tuyển dụng là gì?
+Tiêu chuẩn học vị giảng viên các ngành là gì?
+Với ngành đặc thù, giảng viên có thể có học vị gì?
+Giảng viên cần có chứng chỉ gì?
+Giảng viên phải có khả năng gì về nghiên cứu?
+Tiêu chuẩn ngoại ngữ giảng viên?
+Quy trình tuyển dụng giảng viên bắt đầu bằng gì?
+Nếu không có vị trí phù hợp, ứng viên có thể làm gì?
+Ai thẩm định hồ sơ tuyển dụng?
+Chính sách thu hút nhà khoa học đặc biệt là gì?
+Nhà khoa học được bổ nhiệm vị trí nào ưu tiên?
+Tiêu chuẩn tuyển dụng nghiên cứu viên là gì?
+Nghiên cứu viên cần trình độ ngoại ngữ gì?
+Nghiên cứu viên cần có công bố gì?
+Quy trình tuyển dụng nghiên cứu viên như thế nào?
+Ứng viên cần chuẩn bị gì sau khi được chọn?
+ĐHQGHN thuộc top bao nhiêu đại học thế giới?
+Năm nào ĐHQGHN thực hiện chiến lược phát triển?
+ĐHQGHN có cam kết gì với các ứng viên?
+ĐHQGHN có bao nhiêu bài báo khoa học quốc tế hàng năm?
+ĐHQGHN có chính sách thu hút nhà khoa học gì?
+Nhà khoa học có thể đề xuất điều gì tại ĐHQGHN?
+Ứng viên muốn tuyển dụng liên hệ qua số điện thoại nào?
+Ứng viên gửi hồ sơ cho ai khi chưa có vị trí?
+ĐHQGHN ưu tiên tuyển giảng viên có học vị gì?
+Tiêu chuẩn ngoại ngữ với giảng viên thể thao?
+Nghiên cứu viên cần chứng chỉ ngoại ngữ nào?
+Hồ sơ ứng viên được chuyển về đâu?
+Ai tổ chức thi tuyển, xét tuyển?
+Ứng viên có thể đăng ký ứng tuyển qua kênh nào?
+ĐHQGHN hỗ trợ gì cho nhà khoa học xuất sắc?
+Mã trường của Trường Quản trị và Kinh doanh là gì?
+Trường HSB thuộc đơn vị nào?
+HSB bắt đầu tuyển sinh đại học từ năm nào?
+Website chính thức của HSB là gì?
+Ngành Quản trị và An ninh HSB yêu cầu chiều cao tối thiểu cho nam là?
+Điều kiện tiên quyết để được xét tuyển là gì?
+Ngưỡng điểm thi tốt nghiệp THPT với ngành Quản trị và An ninh HSB là?
+Thí sinh thi HSA ngành Marketing HSB cần đạt tối thiểu bao nhiêu điểm?
+Điểm tiếng Anh tốt nghiệp tối thiểu là bao nhiêu?
+Thí sinh dùng chứng chỉ A-Level cho HSB cần đạt tối thiểu bao nhiêu điểm mỗi môn?
+Tổng số giảng viên toàn thời gian trong HSB là bao nhiêu?
+Ngành giảng dạy phổ biến nhất HSB là gì?
+Giảng viên cao cấp nhất HSB có học hàm gì?
+Có bao nhiêu giảng viên HSB thỉnh giảng?
+Ngành nào của HSB có nhiều giảng viên thỉnh giảng nhất?
+Ngành Quản trị Doanh nghiệp và Công nghệ của HSB tuyển sinh từ năm nào?
+Ngành Marketing và Truyền thông của HSB có điểm trúng tuyển năm 2020 là?
+Ngành Quản trị và An ninh có mã ngành là gì?
+Năm 2021, tổng chỉ tiêu tuyển sinh HSB là bao nhiêu?
+Ngành Quản trị Nhân lực và Nhân tài HSB bắt đầu đào tạo năm nào?
+Ngành "Quản trị Doanh nghiệp và Công nghệ" HSB có mã ngành là gì?
+Phương thức xét tuyển 100 của HSB là gì?
+Ngành "Marketing và Truyền thông" HSB sử dụng tổ hợp xét tuyển nào?
+Trường HSB sử dụng bài thi Đánh giá năng lực nào trong xét tuyển?
+Ngành "Quản trị Doanh nghiệp và Công nghệ" HSB xét tuyển theo tổ hợp môn nào?
+Tên tiếng Việt của Trường ĐHKHTN là gì?
+Mã trường của Trường ĐHKHTN là gì?
+Trang web tuyển sinh của Trường ĐHKHTN là gì?
+Điểm trúng tuyển ngành Toán tin Trường ĐHKHTN năm 2021 là bao nhiêu?
+Hotline tuyển sinh của Trường ĐHKHTN là số nào?
+Ngành Toán học Trường ĐHKHTN có mã ngành gì?
+Ngành Khoa học máy tính ĐHKHTN tuyển bao nhiêu chỉ tiêu theo thi THPT?
+Ngành Khoa học dữ liệu Trường ĐHKHTN sử dụng những tổ hợp môn nào?
+Ngành Vật lý học Trường ĐHKHTN có mã phương thức đánh giá năng lực là gì?
+Ngành Hóa học Trường ĐHKHTN có xét tuyển bằng chứng chỉ quốc tế không?
+Điều kiện Tiếng Anh cho CTĐT chất lượng cao Trường ĐHKHTN là gì?
+Xét tuyển bằng kỳ thi ĐGNL cho ĐHKHTN của ĐHQGHN cần tối thiểu bao nhiêu điểm?
+Điều kiện điểm thi SAT để xét tuyển Trường ĐHKHTN là gì?
+Thí sinh có IELTS 5.5 có được xét tuyển Trường ĐHKHTN không?
+Học sinh đoạt giải học sinh giỏi quốc gia được tuyển thẳng Trường ĐHKHTN không?
+Chỉ tiêu ngành Sinh học Trường ĐHKHTN năm 2020?
+Điểm trúng tuyển ngành Hoá học Trường ĐHKHTN 2020?
+Mã ngành Khí tượng và khí hậu học Trường ĐHKHTN là gì?
+Ngành Hải dương học Trường ĐHKHTN bắt đầu đào tạo năm nào?
+Năm mở ngành Tài nguyên và môi trường nước Trường ĐHKHTN?
+Tên và mã trường của Trường Đại học Giáo dục là gì?
+Địa chỉ các cơ sở đào tạo của Trường Đại học Giáo dục ở đâu?
+Tỷ lệ sinh viên có việc làm sau khi tốt nghiệp UED là bao nhiêu?
+Các phương thức tuyển sinh gần đây của trường UED gồm những gì?
+Sinh viên Trường Đại học Giáo dục có được học bằng kép không?
+Mã ngành Sư phạm Toán học UED là gì?
+Phương thức tuyển sinh QHS GD1 UED gồm những tổ hợp nào?
+Ngành Sư phạm Ngữ văn UED có mã gì?
+Nhóm ngành QHS GD2 UED tuyển theo tổ hợp nào?
+Ngành QHS GD3 UED có bao nhiêu chuyên ngành?
+Mã phương thức xét tuyển bằng kỳ thi ĐGNL của ĐHQGHN cho UED là gì?
+Mã phương thức xét tuyển kết hợp chứng chỉ quốc tế cho UED là gì?
+Mã phương thức xét học sinh tốt nghiệp nước ngoài cho UED là gì?
+Sau khi trúng tuyển UED, SV được phân ngành khi nào?
+Mã tuyển thẳng UED ưu tiên theo quy định là gì?
+Hạn nộp hồ sơ xét tuyển thẳng UED là khi nào?
+Khi nào công bố kết quả xét tuyển thẳng UED?
+Xác nhận nhập học với thí sinh xét tuyển thẳng UED diễn ra khi nào?
+Ngày nhập học chính thức cho thí sinh trúng tuyển UED là?
+Ưu tiên khu vực KV1 được cộng bao nhiêu điểm?
+Đối tượng UT1 được cộng bao nhiêu điểm ưu tiên?
+Khu vực nào không được cộng điểm ưu tiên?
+Ưu tiên khu vực với ĐGNL ĐHQGHN, KV1 được cộng bao nhiêu điểm?
+Có được cộng gộp nhiều mức ưu tiên không?
+Thí sinh đạt từ 22,5 điểm trở lên được tính ưu tiên thế nào?
+Mã trường Trường Đại học Công nghệ là gì?
+Địa chỉ website tuyển sinh của Trường Đại học Công nghệ?
+Email liên hệ tuyển sinh UET là gì?
+Tỷ lệ sinh viên ngành CNTT UET có việc làm?
+Điểm trúng tuyển ngành CNTT UET năm 2021?
+Ngành "Trí tuệ nhân tạo" UET được mở năm nào?
+Trường Đại học Công nghệ thuộc đơn vị nào?
+Ngành có mã 7480101 UET là gì?
+Ngành “Kỹ thuật năng lượng” UET có điểm chuẩn 2021?
+Địa chỉ Trường Đại học Công nghệ?
+Ngành Công nghệ kỹ thuật điện tử – viễn thông UET có bao nhiêu chỉ tiêu 2021?
+Ngành Kỹ thuật năng lượng UET bắt đầu đào tạo từ năm nào?
+Năm 2021, ngành Vật lý kỹ thuật UET có bao nhiêu sinh viên nhập học?
+Mã ngành của Công nghệ thông tin UET là gì?
+Điểm thi THPT ngành Khoa học máy tính UET năm 2021 là bao nhiêu?
+Ngành Trí tuệ nhân tạo UET được mở vào năm nào?
+Năm gần nhất ngành Cơ kỹ thuật UET tuyển sinh là năm nào?
+Ngành Công nghệ hàng không vũ trụ UET được mở theo quyết định số nào?
+Kỹ thuật điều khiển và tự động hóa UET có mã ngành là gì?
+Ngành Mạng máy tính và truyền thông dữ liệu UET có mã được chuyển đổi năm nào?
+Mã trường của Khoa Luật – ĐHQGHN là gì?
+Khoa Luật ĐHQGHN ở đâu?
+Website tuyển sinh của Khoa Luật?
+Facebook tuyển sinh của Khoa Luật?
+SĐT liên hệ tuyển sinh UL?
+Ngành Luật có tỷ lệ có việc làm là bao nhiêu?
+Điểm trúng tuyển tổ hợp C00 năm 2021 ngành Luật?
+Khoa Luật có tổ chức thi tuyển năm 2022 không?
+Khoa Luật đào tạo ngành nào từ năm 1976?
+Điều kiện tiếng Anh xét tuyển ngành Luật CLC?
+Khoa Luật có tuyển sinh đào tạo từ xa không?
+Website của Khoa Luật ĐHQGHN là gì?
+Tổng quy mô đào tạo bậc đại học chính quy UL là bao nhiêu?
+Số lượng phòng học đa phương tiện UL là bao nhiêu?
+Tổng diện tích đất của trường UL là bao nhiêu ha?
+Khoa Luật có bao nhiêu giảng viên có học vị Tiến sĩ?
+Cán bộ kê khai UL là ai?
+Số điện thoại Phòng Đào tạo Khoa Luật?
+Khoa Luật đào tạo bao nhiêu học viên thạc sĩ ngành Luật Kinh tế?
+Chủ nhiệm Khoa Luật hiện tại là ai?
+Cổng thông tin sinh viên ULIS là gì?
+VNU Email dùng để làm gì?
+Hành chính một cửa phục vụ ai?
+ULIS Fasttrack là gì?
+Thư viện điện tử ULIS có gì?
+Cổng thông tin tuyển sinh ULIS là gì?
+Hệ thống QL KHCN ULIS là gì?
+Công đoàn ULIS thuộc tổ chức nào?
+Facebook ULIS có gì?
+Khoa Tiếng Anh ULIS đào tạo gì?
+Trường THPT Chuyên ngữ thuộc đâu?
+ULIS SUCCESS COURSE là gì?
+Infographic QLĐH có gì?
+Tra cứu thi đua ULIS dùng để làm gì?
+Hệ thống văn bản điều hành ULIS là gì?
+Trường Đại học Quốc gia Hà Nội có sử dụng chứng chỉ quốc tế nào để xét tuyển?
+Lệ phí xét tuyển kết hợp kết quả học tập THPT và phỏng vấn là bao nhiêu?
+Những ngành nào được đào tạo tại Trường ĐH KHXH&NV, ĐHQGHN?
+Thí sinh có thể xét tuyển bằng tổ hợp nào nếu chọn Tiếng Hàn là môn ngoại ngữ?
+Thí sinh xét tuyển theo kết quả Đánh giá năng lực của ĐHQGHN vào lúc nào?
+Tên cơ sở đào tạo của Trường Đại học Y Dược là gì?
+Mã trường của Trường Đại học Y Dược là gì?
+Địa chỉ trụ sở chính của Trường Đại học Y Dược ở đâu?
+Trang thông tin điện tử chính thức của Trường Đại học Y Dược là gì?
+Số điện thoại liên hệ tuyển sinh của Trường Đại học Y Dược là bao nhiêu?
+Tỷ lệ sinh viên tốt nghiệp có việc làm tại Trường Đại học Y Dược là bao nhiêu?
+Phương thức tuyển sinh chính của Trường Đại học Y Dược trong 2 năm gần nhất là?
+Điểm trúng tuyển ngành Y Khoa năm 2021 là bao nhiêu?
+Các ngành đào tạo chính của Trường Đại học Y Dược gồm những ngành nào?
+Điều kiện tuyển sinh đối với thí sinh dự thi tốt nghiệp THPT năm 2022 là gì?
+Lĩnh vực đào tạo của UMP nào có chỉ tiêu tuyển sinh đại học là 50?
+Tỉ lệ sinh viên tốt nghiệp ngành Y khoa đã có việc làm là bao nhiêu phần trăm?
+Số sinh viên trúng tuyển nhập học ngành Dược học năm nào cao hơn chỉ tiêu?
+Năm nào ngành Răng - Hàm - Mặt bắt đầu đào tạo tại Đại học Quốc Gia Hà Nội?
+Mã ngành của ngành Kỹ thuật xét nghiệm y học là gì?
+Phương thức xét tuyển nào của UMP có mã phương thức là 409?
+Chỉ tiêu tuyển sinh đại học ngành Điều dưỡng năm 2021 là bao nhiêu?
+Trường nào có thẩm quyền cho phép đào tạo ngành Y khoa?
+Diện tích sàn xây dựng của các phòng học UMP từ 100 - 200 chỗ là bao nhiêu mét vuông?
+Số lượng phòng làm việc của giáo sư, phó giáo sư, giảng viên của cơ sở đào tạo UMP là?
+Tên tiếng Anh Trường Đại học Khoa học Xã hội và Nhân văn?
+Mã Trường Đại học Khoa học Xã hội và Nhân văn?
+Địa chỉ chính Trường Đại học Khoa học Xã hội và Nhân văn?
+Website Trường Đại học Khoa học Xã hội và Nhân văn?
+Facebook chung Trường Đại học Khoa học Xã hội và Nhân văn?
+Facebook tư vấn Trường Đại học Khoa học Xã hội và Nhân văn?
+Số điện thoại tuyển sinh Trường Đại học Khoa học Xã hội và Nhân văn?
+Lĩnh vực đào tạo Trường Đại học Khoa học Xã hội và Nhân văn?
+Chỉ tiêu ngành Báo chí Trường Đại học Khoa học Xã hội và Nhân văn?
+Tỉ lệ sinh viên tốt nghiệp ngành Chính trị học Trường Đại học Khoa học Xã hội và Nhân văn?
+Điểm trúng tuyển khối A01 ngành Khoa học quản lý Trường Đại học Khoa học Xã hội và Nhân văn 2021?
+Điểm trúng tuyển khối C00 ngành Báo chí Trường Đại học Khoa học Xã hội và Nhân văn 2021?
+Điểm trúng tuyển ngành Quản trị văn phòng Trường Đại học Khoa học Xã hội và Nhân văn năm 2020?
+Chỉ tiêu ngành Đông phương học Trường Đại học Khoa học Xã hội và Nhân văn?
+Tỉ lệ sinh viên có việc làm ngành Công tác xã hội Trường Đại học Khoa học Xã hội và Nhân văn?
+Năm khảo sát việc làm Trường Đại học Khoa học Xã hội và Nhân văn?
+Địa chỉ trụ sở Trường Đại học Khoa học Xã hội và Nhân văn?
+Phương thức tuyển sinh Trường Đại học Khoa học Xã hội và Nhân văn?
+Điểm trúng tuyển ngành Hán Nôm khối C00 2021 Trường Đại học Khoa học Xã hội và Nhân văn?
+Tỉ lệ sinh viên tốt nghiệp ngành Tâm lý học Trường Đại học Khoa học Xã hội và Nhân văn?

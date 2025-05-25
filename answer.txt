@@ -1,0 +1,1210 @@
+Môn này có 3 tín chỉ, điều kiện tiên quyết là "LLCT".
+160 giờ tự học.
+Không, môn này không có giờ lý thuyết hoặc thực hành cụ thể.
+Có, cả hai môn đều có 3 tín chỉ.
+15 giờ thực hành.
+Khối kiến thức theo khối ngành.
+"CSN".
+40 giờ lý thuyết.
+Không, đây là môn bắt buộc trong khối kiến thức nhóm ngành.
+20 giờ thực hành (tương đương 1 tín chỉ).
+"CSN".
+70 giờ tự học.
+3 định hướng: Công nghệ kỹ thuật sinh học, Nông nghiệp, và Thực phẩm.
+Có trong cả 3 định hướng chuyên sâu.
+"CN" và "ĐA".
+3 tín chỉ.
+Có, 10 giờ thực hành.
+Kiến thức bổ trợ.
+110 giờ tự học.
+6 tín chỉ.
+"ĐATN".
+150 tín chỉ.
+"Tiếng Anh B1" (160 giờ tự học).
+8 môn (từ PHI1006 đến INT1009).
+42 giờ lý thuyết.
+Không, môn này chỉ có lý thuyết (30 giờ).
+Khối kiến thức ngành (bắt buộc).
+30 giờ thực hành.
+Gồm 5 môn: Công nghệ Enzyme và Protein, Công nghệ vi sinh thực phẩm, Kỹ thuật thu hồi sản phẩm, và 2 đồ án.
+3 tín chỉ.
+21 tín chỉ. 
+3 tín chỉ.
+Triết học Mác – Lênin.
+4 tín chỉ.
+19 tín chỉ.
+Vật lý đại cương 1.
+Khối kiến thức theo lĩnh vực.
+Đại số và Giải tích 2.
+15 tiết thực hành.
+Khối kiến thức theo nhóm ngành.
+Cơ học kỹ thuật 1.
+Khối kiến thức ngành – bắt buộc.
+Cơ học kỹ thuật 2.
+Phương trình vi phân và đạo hàm riêng.
+Lý thuyết điều khiển tự động.
+Khối kiến thức bổ trợ.
+4 tín chỉ.
+Động lực học – môi trường nước, môi trường không khí, máy – thiết bị thủy khí, thực nghiệm thủy khí, kỹ thuật đường ống.
+Định hướng chuyên sâu về Cơ điện tử.
+Định hướng Công nghệ vũ trụ.
+Vật liệu và kết cấu tiên tiến.
+3
+Khối kiến thức định hướng chuyên sâu về Cơ học kỹ thuật biển.
+EMA2027.
+Cơ học kỹ thuật 2, Matlab và ứng dụng, Lý thuyết điều khiển tự động.
+Các học phần tự chọn của Cơ điện tử.
+33 tiết lý thuyết.
+Công nghệ vũ trụ.
+Cơ học môi trường liên tục, Cơ học vật rắn biến dạng.
+5 tín chỉ.
+Giải tích 1.
+Nhập môn lập trình.
+Khối kiến thức theo khối ngành.
+3 tín chỉ.
+Đại số và Giải tích 2.
+45 tiết lý thuyết.
+Tín hiệu và hệ thống.
+Phương pháp số.
+15 tiết thực hành.
+Khối kiến thức theo nhóm ngành.
+Đại số và Giải tích 2.
+Nhập môn lập trình.
+Khối kiến thức ngành.
+Tín hiệu và hệ thống.
+Đại số và Giải tích 2.
+Các học phần bắt buộc ngành.
+15 tiết thực hành.
+Khối kiến thức ngành – bắt buộc.
+3 tín chỉ.
+45 tiết lý thuyết.
+Học phần tự chọn bổ trợ.
+2 tín chỉ.
+45 tiết.
+Nhập môn lập trình.
+3 tín chỉ.
+Tự chọn bổ trợ.
+Nhập môn lập trình.
+Lập trình nâng cao.
+Lập trình nâng cao.
+Tín hiệu và hệ thống.
+Khối kiến thức theo khối ngành.
+3 tín chỉ.
+Không yêu cầu học phần tiên quyết.
+Khối kiến thức theo khối ngành.
+3 tín chỉ.
+Khối kiến thức theo khối ngành.
+Không yêu cầu học phần tiên quyết.
+3 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+Tin học cơ sở.
+Khối kiến thức theo nhóm ngành.
+3 tín chỉ.
+Khối kiến thức ngành – học phần bắt buộc.
+Đại số.
+Khối kiến thức ngành – học phần bắt buộc.
+3 tín chỉ.
+Không yêu cầu học phần tiên quyết.
+Khối kiến thức ngành – học phần bắt buộc.
+Có, yêu cầu mã học phần 90.
+Khối kiến thức ngành – học phần bắt buộc.
+3 tín chỉ.
+Không yêu cầu.
+3 tín chỉ.
+Mã học phần 60.
+Khối kiến thức ngành – học phần bắt buộc.
+Công nghệ vật liệu.
+Công nghệ vật liệu.
+Hai định hướng: Công nghệ vật liệu và Công nghệ vi điện tử.
+Học phần tự chọn của định hướng chuyên sâu.
+Định hướng Công nghệ vật liệu.
+3 tín chỉ.
+Khối kiến thức theo khối ngành.
+3 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+3 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+4 tín chỉ.
+Khối kiến thức ngành – bắt buộc.
+2 tín chỉ.
+3 tín chỉ.
+Khối kiến thức ngành – bắt buộc.
+2 tín chỉ.
+3 tín chỉ.
+4 tín chỉ.
+Khối kiến thức ngành – bắt buộc.
+Hệ thống cơ điện tử.
+Hệ thống cơ điện tử.
+Có trong các định hướng Hệ thống cơ điện tử, Chế tạo thiết bị, Đo lường và điều khiển, Kỹ thuật robot.
+Khối kiến thức định hướng chuyên sâu.
+2 tín chỉ.
+3 tín chỉ.
+Học phần tự chọn trong định hướng chuyên sâu.
+Chế tạo thiết bị.
+Các học phần bắt buộc.
+2 tín chỉ.
+Học phần tự chọn của định hướng Chế tạo thiết bị.
+Chế tạo thiết bị.
+Đo lường và điều khiển.
+3 tín chỉ.
+Học phần tự chọn của định hướng Đo lường và điều khiển.
+3 tín chỉ.
+Khối kiến thức theo khối ngành.
+3 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+Khối kiến thức theo nhóm ngành.
+Khối kiến thức theo nhóm ngành.
+3 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+4 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+Khối kiến thức theo nhóm ngành.
+3 tín chỉ.
+Khối kiến thức ngành bắt buộc.
+Khối kiến thức ngành bắt buộc.
+Khối kiến thức ngành bắt buộc.
+3 tín chỉ.
+Khối kiến thức ngành bắt buộc.
+3 tín chỉ.
+Định hướng Truyền thông và Mạng.
+Truyền thông và Mạng.
+Truyền thông và Mạng.
+Truyền thông và Mạng.
+Truyền thông và Mạng, Vi điện tử, IoT.
+Truyền thông và Mạng.
+Xử lý tín hiệu và Điện tử y sinh.
+Xử lý tín hiệu và Điện tử y sinh.
+3 tín chỉ.
+Xử lý tín hiệu và Điện tử y sinh.
+Vi điện tử và hệ thống nhúng.
+Vi điện tử và IoT.
+21 tín chỉ.
+CTE2022.
+Hình họa – Vẽ kỹ thuật.
+Khối kiến thức theo khối ngành.
+15 tiết thực hành.
+Sức bền vật liệu.
+Các học phần tự chọn của khối kiến thức theo khối ngành.
+16 tín chỉ.
+4 tín chỉ.
+Cơ học môi trường liên tục trong kỹ thuật.
+Khối kiến thức theo nhóm ngành.
+25 tiết lý thuyết.
+CTE3001.
+Cơ học kết cấu, Vật liệu xây dựng.
+Khối kiến thức ngành – bắt buộc.
+3 tín chỉ.
+Hình họa – Vẽ kỹ thuật.
+Các học phần tự chọn của khối kiến thức ngành.
+Công trình Dân dụng & Công nghiệp.
+20 tiết thực hành.
+Đồ án 3A: Kết cấu bê tông cốt thép.
+2 tín chỉ.
+Công trình Giao thông.
+Vật liệu xây dựng, Kết cấu bê tông cốt thép.
+30 tiết lý thuyết.
+Địa chất công trình, Trắc địa.
+CTE4014.
+2 tín chỉ.
+120 tiết thực hành.
+23 tín chỉ.
+13 tín chỉ.
+AGT2001.
+4 tín chỉ.
+Khối kiến thức theo khối ngành.
+16 tín chỉ.
+AGT2111.
+3 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+AGT2008.
+3 tín chỉ.
+Khối kiến thức ngành – bắt buộc.
+AGT3115.
+2 tín chỉ.
+Khối kiến thức ngành – bắt buộc.
+Nông nghiệp kỹ thuật số và Tin sinh học nông nghiệp.
+AGT3104.
+3 tín chỉ.
+Định hướng chuyên sâu về Nông nghiệp kỹ thuật số.
+4 tín chỉ.
+Công nghệ sinh học nông nghiệp và Tin sinh học nông nghiệp.
+AGT3130.
+3 tín chỉ.
+Định hướng chuyên sâu về Tin sinh học nông nghiệp.
+Các học phần tự chọn.
+AGT3016.
+3 tín chỉ.
+Các học phần tự chọn.
+UET1002.
+10 tín chỉ.
+81 tín chỉ.
+10 tín chỉ.
+ELT2035.
+4 tín chỉ.
+Khối kiến thức theo khối ngành.
+30 tín chỉ.
+INT2215.
+4 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+INT2211.
+3 tín chỉ.
+Khối kiến thức ngành – bắt buộc.
+INT3131.
+3 tín chỉ.
+Nhóm các học phần về Công nghệ phần mềm.
+INT3120.
+3 tín chỉ.
+Nhóm các học phần về Hệ thống thông tin.
+INT3209.
+4 tín chỉ.
+Nhóm các học phần về Mạng và truyền thông máy tính.
+INT3307.
+3 tín chỉ.
+Nhóm các học phần về Khoa học máy tính.
+INT3405.
+3 tín chỉ.
+Các học phần lựa chọn bổ trợ.
+INT3418.
+7 tín chỉ.
+INT3509.
+51 tín chỉ.
+10 tín chỉ.
+ELT2035.
+4 tín chỉ.
+Khối kiến thức theo khối ngành.
+30 tín chỉ.
+INT2215.
+4 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+INT2208.
+Các học phần tiếng Nhật.
+JAP2085.
+3 tín chỉ.
+Các học phần bắt buộc.
+INT3138.
+3 tín chỉ
+Các học phần bắt buộc.
+INT3401.
+3 tín chỉ.
+Các học phần tự chọn.
+INT3321.
+3 tín chỉ.
+Các học phần tự chọn.
+INT3406.
+3 tín chỉ.
+Các học phần tự chọn bổ trợ.
+JAP3063.
+3 tín chỉ.
+Khóa luận tốt nghiệp.
+INT3509.
+54 tín chỉ.
+6 tín chỉ.
+EMA2011.
+3 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+14 tín chỉ.
+EMA2006.
+3 tín chỉ.
+Các học phần bắt buộc.
+EMA2042.
+4 tín chỉ.
+Các học phần bắt buộc.
+EMA2024.
+2 tín chỉ.
+Tự động hóa Công nghiệp.
+EMA3085.
+3 tín chỉ.
+Tự động hóa Công nghiệp và Kỹ thuật đo lường và tin học công nghiệp.
+EMA4003.
+Kỹ thuật đo lường và tin học công nghiệp.
+3 tín chỉ.
+EMA4004.
+Các học phần tự chọn (Tự động hóa Công nghiệp và Kỹ thuật đo lường).
+EMA3017.
+2 tín chỉ.
+Thực tập và tốt nghiệp.
+EMA4006.
+10 tín chỉ.
+90 tín chỉ.
+Các học phần tự chọn (Tự động hóa Công nghiệp và Kỹ thuật đo lường).
+INT3401.
+10 tín chỉ.
+ELT2035.
+4 tín chỉ.
+Khối kiến thức theo khối ngành.
+31 tín chỉ.
+ELT1007.
+3 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+ELT3296.
+4 tín chỉ.
+Khối kiến thức ngành bắt buộc.
+ELT3047.
+3 tín chỉ.
+Thiết kế vi mạch.
+ELT3202.
+3 tín chỉ.
+Các hệ thống tính toán thông minh và Công nghệ IoT.
+INT3405.
+3 tín chỉ.
+Công nghệ IoT.
+INT3307.
+3 tín chỉ.
+Khối kiến thức bổ trợ.
+INT3103.
+2 tín chỉ.
+Khối kiến thức thực tập và tốt nghiệp.
+ELT4068.
+4 tín chỉ.
+69 tín chỉ.
+INE1050.
+38 tín chỉ.
+EPN2054.
+3 tín chỉ.
+Khối kiến thức theo khối ngành và nhóm ngành.
+EPN2066.
+4 tín chỉ.
+Cơ sở ngành (bắt buộc).
+EET2006.
+3 tín chỉ.
+Năng lượng mặt trời.
+EET3005.
+2 tín chỉ.
+Các học phần tự chọn (Năng lượng mặt trời).
+EET3013.
+2 tín chỉ.
+Biến đổi và tích trữ các nguồn năng lượng mới.
+EET3020.
+2 tín chỉ.
+Quản lý và An toàn năng lượng.
+EET3027.
+2 tín chỉ.
+Các học phần tự chọn (Quản lý và An toàn năng lượng).
+ELT2028.
+2 tín chỉ.
+Kiến thức bổ trợ.
+10 tín chỉ.
+72 tín chỉ.
+EET2023.
+2 tín chỉ.
+2 tín chỉ.
+10 tín chỉ.
+ELT2035.
+4 tín chỉ.
+Khối kiến thức theo khối ngành.
+31 tín chỉ.
+ELT1007.
+4 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+RBE3017.
+2 tín chỉ.
+Khối kiến thức ngành bắt buộc.
+RBE3050.
+3 tín chỉ.
+Khối kiến thức ngành lựa chọn.
+ELT3996.
+3 tín chỉ.
+Khối kiến thức ngành lựa chọn.
+RBE3046.
+3 tín chỉ.
+Khối kiến thức bổ trợ.
+INT3103.
+2 tín chỉ.
+Khối kiến thức thực tập và tốt nghiệp.
+RBE4001.
+4 tín chỉ.
+69 tín chỉ.
+RBE2001.
+3 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+RBE3030.
+10 tín chỉ.
+ELT2035.
+4 tín chỉ.
+Khối kiến thức theo khối ngành.
+30 tín chỉ.
+INT2215.
+4 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+INT2044.
+3 tín chỉ.
+Các học phần bắt buộc.
+INT3306.
+3 tín chỉ.
+Quản trị và an ninh mạng.
+INT3309.
+3 tín chỉ.
+Phát triển ứng dụng Internet và Điện toán đám mây.
+INT3319E.
+3 tín chỉ.
+Truyền thông.
+ELT3067.
+4 tín chỉ.
+Các học phần lựa chọn khác.
+INT3405.
+2 tín chỉ.
+Các học phần bổ trợ.
+INT4006.
+10 tín chỉ.
+65 tín chỉ.
+INT3105.
+Khối kiến thức theo khối ngành.
+32 giờ tự học.
+AIT2006.
+3 giờ lý thuyết.
+11 tín chỉ.
+45 giờ thực hành.
+8.
+3 tín chỉ.
+45 giờ tự học.
+2 tín chỉ.
+EPN2063.
+39 giờ thực hành.
+0.
+Khối kiến thức ngành, các học phần bắt buộc.
+3 tín chỉ.
+3 giờ lý thuyết.
+45 giờ tự học.
+ELT2040.
+2 tín chỉ.
+EPN3074.
+39 giờ thực hành.
+60.
+Cả Công nghệ vật liệu và Công nghệ vi điện tử.
+45 giờ tự học.
+3 tín chỉ.
+15 giờ thực hành.
+INE1051.
+2 tín chỉ.
+180.
+10 tín chỉ.
+3 tín chỉ.
+Nhóm các học phần về Khoa học dữ liệu và phân tích kinh doanh.
+4 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+4 tín chỉ.
+INT2212.
+Khối kiến thức theo nhóm ngành.
+4 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+INT2204.
+3 tín chỉ.
+Khối kiến thức ngành.
+INT2020E.
+3 tín chỉ.
+Khối kiến thức ngành.
+INT3220E.
+3 tín chỉ.
+Tích hợp dịch vụ và quản lý dữ liệu lớn.
+INT3227.
+4 tín chỉ.
+Tích hợp dịch vụ và quản lý dữ liệu lớn.
+INT3231E.
+3 tín chỉ.
+Khoa học dữ liệu và phân tích kinh doanh.
+INT3401.
+4 tín chỉ.
+INT3233.
+Khoa học dữ liệu và phân tích kinh doanh.
+2 tín chỉ.
+Khóa luận tốt nghiệp.
+3 tín chỉ.
+Khối kiến thức theo khối ngành, nhóm ngành.
+3 tín chỉ.
+Khối kiến thức ngành.
+3 tín chỉ.
+Khối kiến thức ngành.
+3 tín chỉ.
+Khối kiến thức ngành.
+3 tín chỉ.
+Khối kiến thức ngành.
+3 tín chỉ.
+Khối kiến thức ngành.
+3 tín chỉ.
+Định hướng phương pháp trong TTNT.
+3 tín chỉ.
+Định hướng phương pháp trong TTNT.
+3 tín chỉ.
+Định hướng phương pháp trong TTNT.
+3 tín chỉ.
+Định hướng phương pháp trong TTNT.
+3 tín chỉ.
+Định hướng TTNT liên ngành.
+3 tín chỉ.
+Định hướng TTNT liên ngành.
+3 tín chỉ.
+Định hướng TTNT liên ngành.
+3 tín chỉ.
+Định hướng TTNT liên ngành.
+3 tín chỉ.
+Các học phần bổ trợ.
+3 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+3 tín chỉ.
+Khối kiến thức theo nhóm ngành.
+3 tín chỉ.
+Khối kiến thức ngành.
+3 tín chỉ.
+Khối kiến thức ngành.
+3 tín chỉ.
+Khối kiến thức ngành.
+3 tín chỉ.
+Khối kiến thức ngành.
+3 tín chỉ.
+Khối kiến thức ngành.
+3 tín chỉ.
+Khối kiến thức ngành.
+3 tín chỉ.
+Khối kiến thức ngành.
+3 tín chỉ.
+Công nghệ quang tử.
+3 tín chỉ.
+Công nghệ quang tử.
+2 tín chỉ.
+Công nghệ quang tử.
+3 tín chỉ.
+Công nghệ nano và ứng dụng.
+2 tín chỉ.
+Công nghệ nano và ứng dụng.
+3 tín chỉ.
+Vật lý tính toán.
+Năm 1993 
+Vietnam National University, Hanoi (VNU)
+Đảng và Nhà nước Việt Nam
+Lê Quân.
+Là một trong hai Đại học Quốc gia giữ vai trò nòng cốt 
+Trường Đại học Ngoại ngữ
+Huyện Ba Vì.
+GS.TS Lê Quân.
+Trường ĐH Khoa học Tự nhiên.
+Quận Thanh Xuân.
+Ông Mai Hoàng Anh 
+Ông Đoàn Văn Cường
+Bà Hứa Thanh Hoa.
+15
+Ông Lê Tuấn Anh 
+Ở Ban Tổ chức Cán bộ.
+Bậc 3 đối với chương trình đào tạo chuẩn.
+8,98 ha.
+Đơn xin nghỉ ốm và đơn xin hưởng chế độ thai sản.
+Phẩm chất đạo đức, năng lực, kiến thức.
+Viện sĩ B.E. Paton.
+190 chương trình.
+33.88%.
+Từ 03 đến 05/9/2024.
+Trước ngày 30/6/2025.
+Công nghệ thông tin, Kỹ thuật máy tính, Kỹ thuật Robot
+Toán học tài năng, Toán học tiên tiến.
+Ngôn ngữ Anh, Sư phạm tiếng Anh, Ngôn ngữ Nga
+Toán giải tích, Đại số và lí thuyết số
+Toán giải tích, Phương trình vi phân và tích phân
+85 .
+PGS.TS Nguyễn Mạnh Khải.
+Phòng thí nghiệm An toàn Thông tin.
+Nhóm nghiên cứu Hội nhập Kinh tế Quốc tế.
+Trường Đại học Khoa học Tự nhiên.
+Ngày 23/6/2008
+Có
+Quỹ là tổ chức phi lợi nhuận.
+Tài trợ, thúc đẩy nghiên cứu 
+GS.TS. Lê Quân, Giám đốc ĐHQGHN.
+Giám đốc Quỹ và Phó Giám đốc Quỹ.
+Tiếp nhận, quản lý .
+Thẩm định, quyết định tài trợ
+Khi phát hiện vi phạm về sử dụng vốn của Quỹ.
+Các tổ chức, cá nhân trong và ngoài nước.
+Science and Technology Foundation of Vietnam National University,Hanoi
+Nhà Điều hành, Đại học Quốc gia Hà Nội
+5 năm.
+Từ 7 đến 9 thành viên.
+Kiểm tra hoạt động Quỹ và báo cáo Giám đốc ĐHQGHN, Hội đồng Quỹ.
+Trước Giám đốc ĐHQGHN, Hội đồng Quỹ và pháp luật.
+15 tỷ đồng từ ngân sách Nhà nước trong 3 năm đầu.
+Các đơn vị, tập thể và cán bộ công chức của ĐHQGHN.
+Đề tài nghiên cứu, hội nghị
+5 năm.
+Quốc hội, Bộ Quốc phòng, BIDV, VinGroup, Viettel
+BIDV.
+Hà Nội và TP Hồ Chí Minh.
+Viettel, VinGroup, Samsung SVMC.
+Cấu trúc và vận hành thị trường bất động sản 
+Trường ĐHKT.
+Điều tra sản xuất và sử dụng năng lượng sạch tại nông thôn đồng bằng Bắc Bộ.
+Công ty Tinh Vân.
+Top 200.
+Hơn 2.300.
+19%.
+Giảng viên, nghiên cứu viên, quản lý, chuyên viên.
+GS.TSKH Nguyễn Đình Đức.
+Tiến sĩ phù hợp ngành.
+Phòng A204, Toà nhà điều hành, Hòa Lạc, Hà Nội.
+Có, gửi vào Ngân hàng ứng viên.
+Ưu đãi thu nhập, hỗ trợ NCKH
+Đăng ký online, hồ sơ chuyển đơn vị tuyển chọn.
+Dự án Viện Vi sinh vật và Công nghệ Sinh học 
+Trường ĐHCN hợp tác với ISIF ASIA.
+Đại học Quốc gia Hà Nội
+Hà Nội.
+Thủ tướng Chính phủ.
+Viện Đại học Đông Dương.
+1956.
+1993.
+9 trường.
+Hòa Lạc, Hà Nội.
+140 chương trình.
+6 viện thành viên.
+Giám đốc ĐHQGHN.
+Khoảng 4.393.
+2016.
+Có, 4 trường.
+Ngô Bảo Châu.
+Đào tạo, nghiên cứu, chuyển giao tri thức
+Nhân tài và nguồn nhân lực
+Tri thức đa ngành, đa lĩnh vực
+Phát triển và bảo vệ đất nước
+Nòng cột giáo dục đại học
+Tầm nhìn đến năm 2045
+Top đầu đại học châu Á
+Đại học nghiên cứu, sáng tạo
+Đổi mới, trách nhiệm, bền vững
+Đạt đỉnh cao nhờ tri thức
+Thành lập từ năm 1906
+Tiền thân là Đại học Đông Dương
+Trung tâm đào tạo, nghiên cứu
+Vị trí số 1 Việt Nam
+Thuộc top 1.000 đại học thế giới
+Một số ngành top 401–500
+Tiếp cận top 100 châu Á
+Đổi mới và tác động xã hội
+Khoảng cách với đại học hàng đầu
+Phát huy vai trò đầu tàu
+Đại học thông minh, đổi mới
+Số hóa, nghiên cứu, sáng tạo
+Học mọi nơi, mọi lúc
+Là phương tiện, mục tiêu quản lý
+Tăng tự chủ và hiệu quả giáo dục
+Phát triển thống nhất trong đa dạng
+Tiên phong đổi mới giáo dục đại học
+Từ mọi nguồn lực xã hội
+Ngành mới, liên ngành, chất lượng
+Thuộc top 300 đại học thế giới
+Hành chính, xe buýt, du lịch
+Có, bản đồ xe buýt đầy đủ
+Bảy cơ sở tại Hà Nội
+144 Xuân Thủy, Cầu Giấy
+19 Lê Thánh Tông
+Nguyễn Trãi, Lương Thế Vinh
+Xã Thạch Hoà, Thạch Thất
+Ký túc xá Mỹ Đình II
+GS.TS Lê Quân
+PGS.TS Nguyễn Hiệu
+PGS.TS Nguyễn Hoàng Hải
+PGS.TS Đào Thanh Trường
+Đương nhiên và mời
+GS.TS Lê Quân
+PGS.TS Nguyễn Hiệu
+Bà Nguyễn Thị Thảo
+Vũ Hoàng Linh
+Hoàng Anh Tuấn
+Đỗ Tuấn Minh
+Trần Xuân Tú
+Nguyễn Tiến Vinh
+Nhiệm kỳ 2020–2025
+144 Xuân Thủy, Cầu Giấy
+Mai Hoàng Anh
+Đoàn Văn Cường
+Nguyễn Anh Tuấn
+Trần Thị Thanh Tú
+Lê Xuân Tình
+lequan@vnu.edu.vn
+(024) 37547670
+Nguyễn Thị Thảo
+Nguyễn Thị Hoàng Liên
+Ủy viên Ban Thường vụ
+Ủy viên Ban Thường vụ
+Nguyễn Văn Đoàn
+Ủy viên Ban Thường vụ
+Ủy viên Ban Chấp hành
+Ủy viên Ban Chấp hành
+Ủy viên Ban Chấp hành
+Ủy viên Ban Chấp hành
+Ủy viên Ban Chấp hành
+15
+vpcd@vnu.edu.vn
+Năm 1996
+26
+Hơn 40.000 đoàn viên
+Năm 2002
+6
+Hứa Thanh Hoa
+Hứa Thanh Hoa
+Trường ĐH KHTN
+Tạ Thị Bích Ngọc
+Nguyễn Bích Đào
+Trần Cường Hưng
+Phan Hoàng Anh
+Vũ Duy
+Cao Tú Oanh
+Nghiêm Thị Minh Giang
+Đinh Thị Bích Ngọc
+Vũ Đức Đam
+Phẩm chất đạo đức tốt.
+Bắt buộc 5 kỹ năng mềm.
+Bậc 3, 4, hoặc 5.
+Bậc 3 ngoại ngữ.
+Bậc 4 ngoại ngữ.
+Bậc 5 ngoại ngữ.
+Theo thỏa thuận hợp tác.
+Bậc 3 ngoại ngữ.
+Bậc 4 ngoại ngữ.
+Theo thỏa thuận hợp tác.
+19,969 ha.
+16,60 ha.
+1.000 ha.
+204.933 m².
+1.470 phòng.
+2.639 m².
+64 phòng.
+6.947 m².
+68 phòng.
+47.287 m².
+94% có việc làm.
+55.685 người.
+11,57% tổng quy mô.
+1,758% tổng quy mô.
+80% chương trình kiểm định.
+1.711 bài công bố.
+72% thuộc Q1, Q2.
+23 bằng sáng chế.
+65,4% giảng viên tiến sĩ.
+4% sinh viên quốc tế
+190 chương trình đại học
+198 chương trình thạc sĩ
+118 chương trình tiến sĩ
+33.88 phần trăm
+Được giữ ổn định
+Hơn 5.000 cử nhân
+13.1 phần trăm
+2.400 thạc sĩ
+Khoảng 200 tiến sĩ
+Đại học danh tiếng quốc tế
+Chuẩn quốc tế
+Ngành liên ngành mới
+Toán - Tin, Hóa dược...
+Trên 800 học sinh
+Tiếp cận chuẩn quốc tế
+55 huy chương vàng
+76 huy chương bạc
+66 huy chương đồng
+ĐHQGHN
+ĐHQGHN
+Đại học nước ngoài uy tín
+Đề án 165
+Ban Tổ chức Trung ương
+Chuẩn quốc gia, quốc tế
+Quy chế, hướng dẫn đào tạo
+Bộ Ngoại giao, Bộ TN&MT
+CNTT, chính sách công...
+Miền núi, vùng sâu
+Phương pháp giảng dạy mới
+Cơ quan nhà nước, doanh nghiệp
+03-05/9/2024.
+Trước 05/9/2024.
+9/2024.
+9/2024.
+9/2024.
+Trước 28/8/2024.
+Trước 15/9/2024.
+Trước 20/9/2024.
+Trước 28/9/2024.
+Trước 28/9/2024.
+Trước 05/10/2024.
+11/2024.
+11-12/2024.
+11-12/2024.
+12/2024.
+12/2024.
+Trước 24/01/2025.
+Trước 25/01/2025.
+25/01-02/02/2025.
+02/2025.
+02/2025.
+03/2025.
+05/2025.
+05/2025.
+05/2025.
+06/2025.
+05-06/2025.
+Trước 15/6/2025.
+Trước 22/6/2025.
+Trước 30/6/2025.
+Quản trị kinh doanh.
+Quản trị kinh doanh.
+Quản trị kinh doanh.
+Kinh tế - tài chính.
+Phương pháp dạy tiếng Anh.
+Ngôn ngữ Đức.
+Vật liệu tiên tiến, bền vững.
+Công nghệ bán dẫn.
+Điện tử, năng lượng, tự động hóa.
+Luật kinh tế, kinh doanh quốc tế.
+Kinh doanh, kế toán.
+Quản lý.
+Kế toán và tài chính.
+Tin học, kỹ thuật máy tính.
+Quản trị khách sạn, du lịch.
+Quản trị kinh doanh.
+Tài chính, ngân hàng, bảo hiểm.
+Nghiên cứu, tác nghiệp marketing.
+Hệ thống thông minh, đa phương tiện.
+Ngân hàng, tài chính, công nghệ.
+9 chương trình cử nhân.
+12 chương trình thạc sĩ.
+Trường ĐH Ngoại ngữ.
+4 trường THPT.
+22 nhất, 34 nhì, 67 tổng.
+3 nhì, 8 ba, 60 tổng.
+3 nhì, 17 ba, 58 tổng.
+9 ba, 12 khuyến khích.
+39.282 sinh viên.
+3.798 học viên.
+108/2012/QH13.
+22/09/2010.
+07/2015/TT-BGDĐT.
+22/2015/TT-BGDĐT.
+03/2015/TT-BGDĐT.
+522/VBHN-BGDĐT.
+47/2012/TT-BGDĐT.
+701/HD-ĐTVNN.
+846/2012/TT-BGDĐT.
+940/2012/TT-BGDĐT.
+1035/2012/TT-BGDĐT.
+116353/BGDĐT-GDQP.
+1310/2012/TT-BGDĐT.
+1406/2012/TT-BGDĐT.
+1504/2012/TT-BGDĐT.
+1605/2012/TT-BGDĐT.
+1701/2012/TT-BGDĐT.
+1857/2011/TT-BGDĐT.
+1943/2011/TT-BGDĐT.
+10/2011/TT-BGDĐT.
+08/2011/TT-BGDĐT.
+38/2010/TT-BGDĐT.
+4366/BGDĐT-PC.
+05-NQ/BCSĐ.
+09/2010/TT-BGDĐT.
+08/02/2022.
+Nền tảng, động lực phát triển.
+Đại học nghiên cứu top 300.
+Xã hội, tự nhiên, kỹ thuật.
+1868/QĐ-ĐHQGHN.
+Đại học nghiên cứu và đổi mới
+Phát triển nguồn lực quốc tế
+4616/QĐ-ĐHQGHN
+08/12/2014
+Ban Hợp tác và Phát triển
+08/2012/QH13
+186/2013/NĐ-CP
+3568/QĐ-ĐHQGHN
+49/2019/QH14
+04/2020/TT-BNG
+272-QĐ/TW
+47/2014/QH13
+75/2020/NĐ-CP
+06/2020/QĐ-TTg
+113/2014/NĐ-CP
+56/2020/NĐ-CP
+37 câu lạc bộ
+25 câu lạc bộ
+Phát triển kỹ năng xã hội
+Năm 2015
+25%
+15%
+Olympic Tin học, Ngoại ngữ
+Gần 150 sinh viên
+Khoảng 3,5 tỷ đồng
+Gần 1000 sinh viên
+Trung tâm Hỗ trợ sinh viên
+Hoạt động phong phú
+Tạp chí khoa học quốc tế
+Giáo dục toàn diện
+Phó Tư lệnh, Chuẩn đô đốc.
+Hiệu trưởng Hoàng Anh Tuấn.
+Chiến sĩ Quân chủng Hải quân.
+Năm 2025.
+92 chương trình.
+Top 150 châu Á.
+Nguồn động viên lớn.
+Thiếu tướng Trần Hồng Hà.
+Các bộ, ban, ngành.
+Đại học nghiên cứu tiên tiến.
+Có năng lực tốt.
+Hơn 200 trường.
+Rèn luyện và học tập.
+Trung kiên, sáng tạo.
+Nhà nước và tổ chức.
+Học bổng Acer Việt Nam.
+Học bổng POSCO Hàn Quốc.
+Khoảng 84%-86%.
+Cơ hội thực tập.
+Kiến thức liên ngành.
+BIO-CAREER DAY 2024.
+Kết nối doanh nghiệp - sinh viên.
+Nghiên cứu khoa học sự sống.
+Năm 1996.
+Hơn 40.000 đoàn viên.
+26 cơ sở
+Năm 2002.
+6 cơ sở
+Nhà điều hành Hòa Lak.
+(024) 375474731.
+4.754 người
+2.501 viên chức
+2.253 lao động hợp đồng
+66,3%
+1.639 người
+2.351 giảng viên
+66,1%
+469 người
+20%
+27 nhà giáo
+21%
+Gấp gần 3 lần
+Tự nhiên, xã hội, kinh tế...
+Môi trường quốc tế
+Nobel, Hành tinh xanh, Cosmos
+18 giải thưởng
+3 nhà khoa học
+PGS.TS. Lê Hoàng Sơn
+Hạng 7.455 thế giới
+4 nhà khoa học
+Chính sách trọng dụng cao
+22,9 ha
+Câu lạc bộ Nhà khoa học
+13 thành viên
+Hỗ trợ khoa học tích cực
+Khoảng 600 lượt
+Nghị quyết 19-NQ/TW
+Đề án thu hút học giả
+Năm 2025
+Nhiều giải thưởng
+Top 200 Châu Á.
+Hơn 2.300 nhà khoa học.
+19%.
+57%.
+ISI và SCOPUS.
+Giảng viên, nghiên cứu viên, quản lý.
+Tự nhiên, Y dược, Kỹ thuật.
+Xã hội, Giáo dục, Liên ngành.
+Ngành, lĩnh vực mới.
+Bảo mật thông tin.
+GS.TSKH Nguyễn Đình Đức.
+GS.TS.TTND Lê Ngọc Thành.
+GS.TS Lê Huy Hàm.
+TS. Nguyễn Việt Cường.
+PGS.TS Trần Thành Nam.
+TS. Vũ Duy
+12 trường.
+9 viện.
+Tòa nhà điều hành Hòa Lạc.
+tccb@vnu.edu.vn.
+Tiến sĩ chuyên ngành phù hợp.
+Thạc sĩ loại giỏi.
+Chứng chỉ bồi dưỡng nghề nghiệp.
+Công bố bài báo khoa học.
+Sử dụng thành thạo.
+Đăng ký ứng tuyển online.
+Gửi hồ sơ vào ngân hàng ứng viên.
+Bộ phận tổ chức nhân sự.
+Ưu đãi và thu nhập tăng thêm.
+Trưởng nhóm nghiên cứu mạnh.
+Thạc sĩ loại giỏi.
+Chứng chỉ B2 trở lên.
+Bài viết trên tạp chí chuẩn ISSN.
+Đăng ký online qua link.
+Hoàn thiện hồ sơ.
+Top 1.000 thế giới.
+Đến năm 2025.
+Liên hệ ngay khi phù hợp.
+Hàng nghìn bài.
+Bổ nhiệm và thu nhập.
+Hướng nghiên cứu mới.
+84-4-3754.7670.
+Ngân hàng ứng viên ĐHQGHN.
+Tiến sĩ hoặc thạc sĩ giỏi.
+Sử dụng tốt ngoại ngữ.
+B2 hoặc tương đương.
+Đơn vị thành viên ĐHQGHN.
+Hội đồng tuyển dụng.
+Link thông báo tuyển dụng.
+Hỗ trợ tài chính, ưu đãi.
+QHD.
+Đại học Quốc gia Hà Nội.
+2019.
+http://hsb.vnu.edu.vn
+1m65.
+Phải đạt sơ tuyển.
+22 điểm
+85 điểm.
+6 điểm.
+60/100 điểm.
+37 người.
+Quản trị doanh nghiệp và công nghệ.
+Giáo sư.
+39 người.
+Marketing và Truyền thông.
+Từ năm 2019.
+20.1 điểm.
+7900189.
+360.
+Năm 2021.
+7900101
+Xét kết quả thi tốt nghiệp THPT, chứng chỉ IELTS.
+D96 (Toán, KHXH, Anh).
+Bài thi ĐGNL HSA do ĐHQGHN tổ chức.
+D08 (Toán, Sinh, Anh).
+Trường Đại học Khoa học Tự nhiên, ĐHQGHN.
+QHT.
+http://tuyensinh.hus.vnu.edu.vn
+26,35
+0886074527.
+QHT01.
+75 chỉ tiêu.
+A00, A01, D07, D08.
+T41.
+Có.
+Tối thiểu 6.0 điểm THPT, hoặc 7.0 điểm học bạ
+Tối thiểu 80/150 điểm.
+Từ 1100/1600 trở lên, còn hạn 2 năm.
+Có, nếu tổ hợp xét tuyển đạt từ 14 điểm và có môn Toán.
+Có, nếu đã tốt nghiệp THPT và ngành phù hợp.
+80
+25,40
+7440221
+1973
+2019
+Trường Đại học Giáo dục, mã trường là QHS
+Số 144 Xuân Thuỷ, số 182 Lương Thế Vinh và Hòa Lạc
+Trung bình trên 93%
+Gồm xét tuyển thẳng, ưu tiên, kết hợp
+Có
+QHS GD1
+A00, A01, B00, D01
+QHS GD2
+C00, D14, D15, D01
+5 ngành
+401 Q00
+409 S49
+411 S41
+Sau kỳ 2 năm nhất
+303 S33
+Trước 17h00 ngày 30/6/2023
+Trước 17h00 ngày 5/7/2023.
+Từ 5/7 đến 17h00 ngày 15/8/2023.
+Từ 23/8 đến 6/9/2023.
+0,75 điểm.
+2,0 điểm.
+KV3.
+3,75 điểm.
+Không, chỉ tính mức cao nhất.
+Theo công thức quy đổi riêng.
+QHI
+https://tuyensinh.uet.vnu.edu.vn
+TuyensinhDHCN@vnu.edu.vn
+100%
+28.75
+2022
+ĐHQGHN
+Khoa học máy tính
+26.5
+Nhà E3, 144 Xuân Thủy, Hà Nội
+150 chỉ tiêu.
+Năm 2016.
+62 sinh viên.
+7480201.
+27 điểm.
+Năm 2022.
+Năm 2021.
+4715/QĐ-ĐHQGHN.
+7520216.
+Năm 2018.
+QHL.
+Nhà E1, 144 Xuân Thủy, Cầu Giấy, Hà Nội.
+http://law.vnu.edu.vn.
+facebook.com/tuyensinhkhoaluat.vnu.
+0243.7549714.
+90,75%.
+27.75.
+Không.
+Ngành Luật.
+THPT đạt ≥ 6.0 hoặc tương đương.
+Không.
+http://law.vnu.edu.vn
+2.528 sinh viên.
+17 phòng.
+12,7 ha.
+Trên 40 người.
+Vũ Đặng Phúc.
+024.37547826.
+274 học viên.
+Nguyễn Thị Quế Anh.
+Nơi sinh viên tra cứu và xử lý thông tin học tập.
+Giao tiếp học thuật qua email ULIS.
+Sinh viên và cán bộ ULIS.
+Hệ thống hành chính nhanh cho sinh viên.
+Tài liệu số phục vụ học tập.
+Cung cấp thông tin thi và xét tuyển.
+Quản lý đề tài và nghiên cứu.
+Công đoàn ĐHQGHN.
+Cập nhật thông tin và sự kiện.
+Cử nhân và sau đại học ngành Tiếng Anh.
+Thuộc ĐHNN-ĐHQGHN.
+Khoá học kỹ năng dành cho sinh viên.
+Hình ảnh hóa văn bản quản lý.
+Kiểm tra kết quả khen thưởng.
+Lưu trữ và quản lý công văn nội bộ.
+Có
+180.000 đồng
+Báo chí, Đông phương học, Quốc tế học, 
+Toán, Ngữ Văn, Tiếng Hàn.
+Từ ngày 01/6 đến 20/6/2024.
+Trường Đại học Y Dược.
+QHY.
+Nhà Y1, 144 Xuân Thủy, Cầu Giấy, Hà Nội.
+http://ump.vnu.edu.vn/
+0911430050.
+91.9%.
+Thi tốt nghiệp THPT và thi đánh giá năng lực.
+28.15 điểm.
+Y Khoa, Dược học, Răng Hàm Mặt
+Thi tốt nghiệp THPT, thi đánh giá năng lực 
+50 gồm Y khoa và Dược học.
+97.2%.
+63, cao hơn chỉ tiêu tuyển sinh 50.
+Năm 2017 tại Đại học Quốc Gia Hà Nội.
+7720601.
+Xét tuyển theo CC (IELTS)
+30.
+Đại học Quốc Gia Hà Nội 
+1851 m².
+26 phòng.
+USSH
+QHX
+336 Nguyễn Trãi, Thanh Xuân, Hà Nội
+http://ussh.vnu.edu.vn
+https://www.facebook.com/ussh.vnu
+https://www.facebook.com/tuvantuyensinh.ussh/
+0862.155.299
+Xã hội và nhân văn
+100
+100%
+25.80
+28.80
+22.50
+130
+92.31%
+Năm 2020
+Số 336 đường Nguyễn Trãi, Thanh Xuân
+Xét tuyển theo Bộ GD-ĐT và ĐHQGHN
+26.60
+100%
